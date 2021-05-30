@@ -1161,3 +1161,14 @@
 2021-05-30 11:11:00;INFO;Get LATEST driver version for 90.0.4430
 2021-05-30 11:11:02;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
 2021-05-30 11:11:52;INFO;Line item added successfully
+2021-05-30 11:58:34;INFO;
+
+2021-05-30 11:58:34;INFO;====== WebDriver manager ======
+2021-05-30 11:58:34;INFO;Current google-chrome version is 90.0.4430
+2021-05-30 11:58:34;INFO;Get LATEST driver version for 90.0.4430
+2021-05-30 12:02:25;INFO;
+
+2021-05-30 12:02:25;INFO;====== WebDriver manager ======
+2021-05-30 12:02:25;INFO;Current google-chrome version is 90.0.4430
+2021-05-30 12:02:25;INFO;Get LATEST driver version for 90.0.4430
+2021-05-30 12:02:27;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\90.0.4430.24\chromedriver.exe] found in cache
