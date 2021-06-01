@@ -26,6 +26,7 @@ class Test_003_Contact_Search:
         self.contact.clickElement("link_Contacts_linktext")
         time.sleep(3)
         self.contact.sendKeys("txt_Search_name", self.search_contact_value)
+        self.driver.close()
 
 
 

@@ -11,6 +11,7 @@ class Test_002_Login_ddt:
     path="./TestData/Logindata.xlsx"
     logger=Loggen.log_generator()
 
+    @pytest.mark.skip
     def test_login_ddt(self, setUp):
         self.driver=setUp
         self.lp=LoginPage(self.driver)

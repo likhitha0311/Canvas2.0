@@ -107,7 +107,7 @@ class Test_006_Add_Project:
               print("Project not added successfully")
               self.logger.error("Project not added successfully")
 
-
+        self.driver.close()
 
 
 

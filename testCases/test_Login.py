@@ -11,6 +11,7 @@ class Test_001_Login:
      password=ReadConfig.getPassword()
      #print(password)
 
+     @pytest.mark.skip
      def test_login(self,setUp):
         self.driver=setUp
         self.lp=LoginPage(self.driver)

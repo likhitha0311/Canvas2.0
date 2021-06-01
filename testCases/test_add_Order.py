@@ -97,7 +97,7 @@ class Test_009_add_Order:
                         print("Order not added successfully")
                         self.logger.error("Order not added successfully")
 
-
+        self.driver.close()
 
 
 

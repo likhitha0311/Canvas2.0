@@ -115,7 +115,7 @@ class Test_008_add_deliverable:
                         print("Deliverable not added successfully")
                         self.logger.error("Deliverable not added successfully")
 
-
+        self.driver.close()
 
 
 

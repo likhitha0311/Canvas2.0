@@ -78,3 +78,4 @@ class Test_007_add_LineItem:
                  else:
                      print("Line item not added successfully")
                      self.logger.error("Line item not added successfully")
+        self.driver.close()

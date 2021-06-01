@@ -34,31 +34,33 @@ class Test_006_add_Contact:
         max_row=XLUtils.getRowCount(self.path,"AddContact")
 
         for r in range(2, max_row+1):
-         FirstName=randominfo.get_first_name()
-         LastName=randominfo.get_last_name()
-         Email=self.lp.random_char(6)
-         LeadSource=XLUtils.readData(self.path,"AddContact", r, 6)
-         ContactNumber=XLUtils.readData(self.path,"AddContact", r, 6)
+             FirstName=randominfo.get_first_name()
+             LastName=randominfo.get_last_name()
+             Email=self.lp.random_char(6)
+             LeadSource=XLUtils.readData(self.path,"AddContact", r, 6)
+             ContactNumber=XLUtils.readData(self.path,"AddContact", r, 6)
 
-         time.sleep(3)
-         self.lp.clickElement("button_addacontact_xpath")
-         self.lp.sendKeys("txt_firstname_xpath",FirstName)
-         self.lp.sendKeys("txt_lastname_xpath", LastName)
-         self.lp.sendKeys("txt_email_xpath", Email+"@gmail.com")
-         self.lp.clickElement("popup_calender_xpath")
-         self.lp.clickElement("popup_startdate_xpath")
-         self.lp.sendKeys("txt_leadsource_xpath",LeadSource)
-         self.lp.sendKeys("text_contactnumber_xpath",ContactNumber)
-         self.lp.clickElement("button_addcontact_xpath")
+             time.sleep(3)
+             self.lp.clickElement("button_addacontact_xpath")
+             self.lp.sendKeys("txt_firstname_xpath",FirstName)
+             self.lp.sendKeys("txt_lastname_xpath", LastName)
+             self.lp.sendKeys("txt_email_xpath", Email+"@gmail.com")
+             self.lp.clickElement("popup_calender_xpath")
+             self.lp.clickElement("popup_startdate_xpath")
+             self.lp.sendKeys("txt_leadsource_xpath",LeadSource)
+             self.lp.sendKeys("text_contactnumber_xpath",ContactNumber)
+             self.lp.clickElement("button_addcontact_xpath")
 
-         time.sleep(3)
-         contacttext=self.driver.find_element(By.XPATH, "(//tr[1]/td[3])[2]").text
-         if FirstName in contacttext:
-             print( "Contact added successfully")
-             self.logger.info("Contact added successfully")
-         else:
-            print("Contact not  added successfully")
-            self.logger.error("Contact not added successfully")
+             time.sleep(3)
+             contacttext=self.driver.find_element(By.XPATH, "(//tr[1]/td[3])[2]").text
+             if FirstName in contacttext:
+                 print( "Contact added successfully")
+                 self.logger.info("Contact added successfully")
+             else:
+                print("Contact not  added successfully")
+                self.logger.error("Contact not added successfully")
+
+        self.driver.close()
 
 
     def test_add_company_inside_contact(self,setUp):
@@ -124,7 +126,7 @@ class Test_006_add_Contact:
                     print("Company is associated with contact successfully")
                     self.logger.info("Company is associated with contact successfully")
 
-
+        self.driver.close()
 
 
 

@@ -66,6 +66,8 @@ class Test_004_Add_Company:
             else:
                 print("Company not  added successfully")
                 self.logger.error("Company not added successfully")
+                
+        self.driver.close()
 
     def test_add_contact_inside_company(self,setUp):
         self.driver = setUp
@@ -132,7 +134,7 @@ class Test_004_Add_Company:
                         print("Contact not added successfully")
                         self.logger.error("Contact not added successfully")
 
-
+        self.driver.close()
 
 
 
