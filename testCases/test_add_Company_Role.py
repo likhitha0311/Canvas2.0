@@ -53,7 +53,7 @@ class Test_10_Add_Company_Role:
 
            time.sleep(2)
            self.lp.clickElement("drop_companyrole")
-           Roles=self.driver.find_elements(By.XPATH,"//div[@id='company_role_code_tree']//li//span")
+           Roles=self.driver.find_elements(By.XPATH,"//div[@id='company_role_code_tree']//li")
            print(len(Roles))
            self.lp.selectfromdropdown(Roles,CompanyRole)
 

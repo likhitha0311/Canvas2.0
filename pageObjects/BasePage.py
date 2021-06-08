@@ -37,8 +37,12 @@ class BasePage:
         for each_element in dropdownlist:
             text=each_element.text
             #print(text)
+
             #text=each_element.get_attribute('innerHTML')
-            #print(text)
+            #print(text.strip())
+
+            ##text=each_element.get_attribute('value')
+            ##print(text)
             if text == value:
                 each_element.click()
                 #self.driver.execute_script("arguments[0].click();", each_element)

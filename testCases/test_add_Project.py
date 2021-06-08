@@ -46,7 +46,16 @@ class Test_006_Add_Project:
 
            time.sleep(2)
            self.lp.clickElement("drop_ProjectType_xpath")
-           projecttypeoptions=self.driver.find_elements(By.XPATH,"//div[@id='project_type_tree']/ul//li")
+           ProjectTypeArrowlist = self.driver.find_elements(By.XPATH,
+                                                 "//*[@id='project_type_tree']//div[@class='e-icons e-icon-expandable interaction']")
+           for every_arrow in ProjectTypeArrowlist:
+               time.sleep(1)
+               #print("length of arrowlist", len(ProjectTypeArrowlist))
+               every_arrow.click()
+
+
+           time.sleep(3)
+           projecttypeoptions=self.driver.find_elements(By.XPATH,"//div[@id='project_type_tree']//ul//li")
            self.lp.selectfromdropdown(projecttypeoptions, ProjectType)
            self.lp.clickElement("label_AddProject_xpath")
 
@@ -82,6 +91,13 @@ class Test_006_Add_Project:
            self.lp.sendKeys("txt_projectdrivelink_xpath", "abcd.com")
 
            self.lp.clickElement("drop_sourcetype_xpath")
+           Arrowlist = self.driver.find_elements(By.XPATH,
+                                                 "//*[@id='project_source_type_code_tree']//div[@class='e-icons e-icon-expandable interaction']")
+           for every_arrow in Arrowlist:
+               time.sleep(1)
+               #print("length of arrowlist", len(Arrowlist))
+               every_arrow.click()
+
            project_source_Type=self.driver.find_elements(By.XPATH, "//div[@id='project_source_type_code_tree']/ul//li")
            self.lp.selectfromdropdown(project_source_Type, ProjectSourceType)
            self.lp.clickElement("label_AddProject_xpath")

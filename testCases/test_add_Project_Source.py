@@ -21,9 +21,10 @@ class Test_11_add_Project_Source:
         self.driver.get(self.baseurl)
         self.lp.setUserName(self.username)
         self.lp.setPassword(self.password)
+        time.sleep(2)
         self.lp.click_login()
 
-        time.sleep(3)
+        time.sleep(2)
         self.lp.clickElement("link_Project_linktext")
         time.sleep(5)
         self.lp.clickElement("link_firstelement")
@@ -53,7 +54,17 @@ class Test_11_add_Project_Source:
 
             self.lp.clickElement("button_addprojectsource")
             self.lp.clickElement("drop_sourcetype_xpath")
-            SourcTypelist = self.driver.find_elements(By.XPATH, "//div[@id='project_source_type_codess_tree']//li")
+            time.sleep(2)
+
+            Arrowlist=self.driver.find_elements(By.XPATH,"//*[@id='project_source_type_codess_tree']//div[@class='e-icons e-icon-expandable interaction']")
+            for every_arrow in Arrowlist:
+                print("length of arrowlist", len(Arrowlist))
+                every_arrow.click()
+            time.sleep(2)
+
+            #SourcTypelist = self.driver.find_elements(By.XPATH, "//div[@id='project_source_type_codess_tree']//li")
+            SourcTypelist = self.driver.find_elements(By.XPATH, "//div[@id='project_source_type_codess_tree']//li[contains(@class,'e-list-item')]")
+            print(len(SourcTypelist))
             self.lp.selectfromdropdown(SourcTypelist, SourceType)
             self.lp.clickElement("label_source")
 

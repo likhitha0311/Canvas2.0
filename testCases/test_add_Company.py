@@ -12,6 +12,7 @@ import randominfo
 from utilities.customLogger import Loggen
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.keys import Keys
 
 
 class Test_004_Add_Company:
@@ -63,12 +64,33 @@ class Test_004_Add_Company:
             if companytext == CompanyName:
                 print("Company added successfully")
                 self.logger.info("Company added successfully")
+                self.login.clickElement("link_firstelement")
+                time.sleep(2)
+                self.login.clickElement("button_plus")
+                self.login.clickElement("link_delete")
+                time.sleep(1)
+                self.login.clickElement("button_yes")
+                time.sleep(2)
+                self.login.sendKeys("txt_Search_name", CompanyName)
+                self.driver.find_element(By.NAME,'search').send_keys(Keys.ENTER)
+                time.sleep(3)
+                try:
+                     wait1 = WebDriverWait(self.driver, 10)
+                     wait1.until(EC.presence_of_element_located((By.XPATH, "//td[.='No records to display']")))
+                     #self.driver.find_element(
+                     print("Company has been deleted successfully")
+                     self.logger.info("Company has been deleted successfully")
+
+                except:
+                      print("Company has not been deleted successfully")
+                      self.logger.info("Company has not been deleted successfully")
             else:
                 print("Company not  added successfully")
                 self.logger.error("Company not added successfully")
-                
+
         self.driver.close()
 
+    @pytest.mark.skip
     def test_add_contact_inside_company(self,setUp):
         self.driver = setUp
         self.driver.get(self.baseurl)
@@ -127,12 +149,12 @@ class Test_004_Add_Company:
                 final_count = len(self.driver.find_elements(By.XPATH, "//table[@class='e-table']//tr"))
                 print("Final count is " ,final_count)
                 if final_count == initial_count + 1:
-                        print("Contact added successfully")
-                        self.logger.info("Contact added successfully")
+                        print("Contact added successfully inside company")
+                        self.logger.info("Contact added successfully inside company")
 
                 else:
                         print("Contact not added successfully")
-                        self.logger.error("Contact not added successfully")
+                        self.logger.error("Contact not added successfully inside company")
 
         self.driver.close()
 

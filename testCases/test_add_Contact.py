@@ -6,10 +6,12 @@ from utilities import XLUtils
 from utilities.readProperties import ReadConfig
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support  import expected_conditions as EC
+from selenium.webdriver.common.keys import Keys
 import time
 import randominfo
 import random
 import pytest
+
 
 
 class Test_006_add_Contact:
@@ -27,6 +29,7 @@ class Test_006_add_Contact:
         self.driver.get(self.baseurl)
         self.lp.setUserName(self.username)
         self.lp.setPassword(self.password)
+        time.sleep(2)
         self.lp.click_login()
         time.sleep(3)
         self.lp.clickElement("link_Contacts_linktext")
@@ -56,6 +59,30 @@ class Test_006_add_Contact:
              if FirstName in contacttext:
                  print( "Contact added successfully")
                  self.logger.info("Contact added successfully")
+
+                 ''''
+                 self.lp.clickElement("link_firstelement")
+                 self.lp.clickElement("link_firstelement")
+                 time.sleep(2)
+                 self.lp.clickElement("button_plus")
+                 self.lp.clickElement("link_delete")
+                 time.sleep(1)
+                 self.lp.clickElement("button_yes")
+                 time.sleep(2)
+                 self.lp.sendKeys("txt_Search_name", FirstName+" "+LastName)
+                 self.driver.find_element(By.NAME, 'search').send_keys(Keys.ENTER)
+                 time.sleep(3)
+                 try:
+                     wait1 = WebDriverWait(self.driver, 10)
+                     wait1.until(EC.presence_of_element_located((By.XPATH, "//td[.='No records to display']")))
+                     # self.driver.find_element(
+                     print("Contact has been deleted successfully")
+                     self.logger.info("Contact has been deleted successfully")
+
+                 except:
+                     print("Contact has not been deleted successfully")
+                     self.logger.info("Contact has not been deleted successfully")
+                     '''
              else:
                 print("Contact not  added successfully")
                 self.logger.error("Contact not added successfully")
@@ -63,6 +90,8 @@ class Test_006_add_Contact:
         self.driver.close()
 
 
+
+    #@pytest.mark.skip
     def test_add_company_inside_contact(self,setUp):
         self.driver=setUp
         self.driver.get(self.baseurl)
@@ -86,7 +115,7 @@ class Test_006_add_Contact:
             CompanyName=XLUtils.readData(self.path,"AddCompany",r,3)
             Email=self.lp.random_char(4)+"@gmail.com"
             ContactNumber=123456788
-            Designation="engineer"
+            Designation="software engineer"
 
             Totalcompanies = self.driver.find_elements(By.XPATH, "//table[@class='e-table']//tr")
             initial_count=len(Totalcompanies)
@@ -123,10 +152,22 @@ class Test_006_add_Contact:
                 final_count=len(self.driver.find_elements(By.XPATH,"//table[@class='e-table']//tr"))
                 if final_count == initial_count+1:
 
-                    print("Company is associated with contact successfully")
-                    self.logger.info("Company is associated with contact successfully")
+                    print("Company is associated  with contact successfully")
+                    self.logger.info("Company is associated  with contact successfully")
+
+                    active_company=self.driver.find_element(By.XPATH, "//a[@title='Company']").text
+
+                    if active_company == CompanyName:
+                        print("Company is located in active position of contact successfully")
+                        self.logger.info("Company is located in active position of contact successfully")
+                    else:
+                        print("Company  is not located in active position of contact successfully")
+                        self.logger.error("Company is not located in active position of contact successfully")
 
         self.driver.close()
+
+
+
 
 
 
