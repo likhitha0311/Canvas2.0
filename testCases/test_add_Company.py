@@ -16,20 +16,27 @@ from selenium.webdriver.common.keys import Keys
 
 
 class Test_004_Add_Company:
+    ''''
     baseurl = ReadConfig.getUrl()
     username = ReadConfig.getUsername()
     password = ReadConfig.getPassword()
+    '''
     path = "./TestData/Logindata.xlsx"
     logger = Loggen.log_generator()
 
     #@pytest.mark.skip
     def test_add_company(self,setUp):
+        ''''
         self.driver=setUp
         self.driver.get(self.baseurl)
         self.login=LoginPage(self.driver)
         self.login.setUserName(self.username)
         self.login.setPassword(self.password)
         self.login.click_login()
+        '''
+        self.driver = setUp
+        self.login = BasePage(self.driver)
+        time.sleep(3)
         self.login.clickElement("link_Companies_linktext")
         r=XLUtils.getRowCount(self.path,"AddCompany")
 
@@ -90,14 +97,18 @@ class Test_004_Add_Company:
 
         self.driver.close()
 
-    @pytest.mark.skip
+    #@pytest.mark.skip
     def test_add_contact_inside_company(self,setUp):
+        ''''
         self.driver = setUp
         self.driver.get(self.baseurl)
         self.login = LoginPage(self.driver)
         self.login.setUserName(self.username)
         self.login.setPassword(self.password)
         self.login.click_login()
+        '''
+        self.driver = setUp
+        self.login = BasePage(self.driver)
         time.sleep(3)
         self.login.clickElement("link_Companies_linktext")
         time.sleep(4)

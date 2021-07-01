@@ -5884,3 +5884,3298 @@
 2021-06-08 13:01:46;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.19\chromedriver.exe] found in cache
 2021-06-08 13:02:42;INFO;Company Role added successfully
 2021-06-08 13:02:55;INFO;Contact is associated with Project as role successfully
+2021-06-08 13:19:25;INFO;
+
+2021-06-08 13:19:25;INFO;====== WebDriver manager ======
+2021-06-08 13:19:25;INFO;Current google-chrome version is 91.0.4472
+2021-06-08 13:19:25;INFO;Get LATEST driver version for 91.0.4472
+2021-06-08 13:19:27;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.19\chromedriver.exe] found in cache
+2021-06-08 13:20:03;INFO;
+
+2021-06-08 13:20:03;INFO;====== WebDriver manager ======
+2021-06-08 13:20:03;INFO;Current google-chrome version is 91.0.4472
+2021-06-08 13:20:03;INFO;Get LATEST driver version for 91.0.4472
+2021-06-08 13:20:04;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.19\chromedriver.exe] found in cache
+2021-06-08 13:21:48;INFO;
+
+2021-06-08 13:21:48;INFO;====== WebDriver manager ======
+2021-06-08 13:21:48;INFO;Current google-chrome version is 91.0.4472
+2021-06-08 13:21:48;INFO;Get LATEST driver version for 91.0.4472
+2021-06-08 13:21:49;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.19\chromedriver.exe] found in cache
+2021-06-08 13:23:22;INFO;
+
+2021-06-08 13:23:22;INFO;====== WebDriver manager ======
+2021-06-08 13:23:22;INFO;Current google-chrome version is 91.0.4472
+2021-06-08 13:23:22;INFO;Get LATEST driver version for 91.0.4472
+2021-06-08 13:23:23;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.19\chromedriver.exe] found in cache
+2021-06-08 13:24:21;INFO;Line item added successfully
+2021-06-08 17:01:55;INFO;
+
+2021-06-08 17:01:55;INFO;====== WebDriver manager ======
+2021-06-08 17:01:55;INFO;Current google-chrome version is 91.0.4472
+2021-06-08 17:01:55;INFO;Get LATEST driver version for 91.0.4472
+2021-06-08 17:01:57;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.19\chromedriver.exe] found in cache
+2021-06-08 17:02:26;INFO;Contact added successfully
+2021-06-08 17:02:26;INFO;
+
+2021-06-08 17:02:26;INFO;====== WebDriver manager ======
+2021-06-08 17:02:27;INFO;Current google-chrome version is 91.0.4472
+2021-06-08 17:02:27;INFO;Get LATEST driver version for 91.0.4472
+2021-06-08 17:02:28;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.19\chromedriver.exe] found in cache
+2021-06-08 17:03:51;INFO;
+
+2021-06-08 17:03:51;INFO;====== WebDriver manager ======
+2021-06-08 17:03:51;INFO;Current google-chrome version is 91.0.4472
+2021-06-08 17:03:51;INFO;Get LATEST driver version for 91.0.4472
+2021-06-08 17:03:52;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.19\chromedriver.exe] found in cache
+2021-06-08 17:05:24;INFO;Contact added successfully
+2021-06-08 17:05:24;INFO;
+
+2021-06-08 17:05:24;INFO;====== WebDriver manager ======
+2021-06-08 17:05:24;INFO;Current google-chrome version is 91.0.4472
+2021-06-08 17:05:24;INFO;Get LATEST driver version for 91.0.4472
+2021-06-08 17:05:26;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.19\chromedriver.exe] found in cache
+2021-06-08 17:06:15;INFO;Company is associated  with contact successfully
+2021-06-08 17:06:15;ERROR;Company is not located in active position of contact successfully
+2021-06-08 17:08:42;INFO;
+
+2021-06-08 17:08:42;INFO;====== WebDriver manager ======
+2021-06-08 17:08:42;INFO;Current google-chrome version is 91.0.4472
+2021-06-08 17:08:42;INFO;Get LATEST driver version for 91.0.4472
+2021-06-08 17:08:43;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.19\chromedriver.exe] found in cache
+2021-06-08 17:11:03;INFO;
+
+2021-06-08 17:11:03;INFO;====== WebDriver manager ======
+2021-06-08 17:11:03;INFO;Current google-chrome version is 91.0.4472
+2021-06-08 17:11:03;INFO;Get LATEST driver version for 91.0.4472
+2021-06-08 17:11:05;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.19\chromedriver.exe] found in cache
+2021-06-08 17:12:26;INFO;Contact added successfully
+2021-06-08 17:12:26;INFO;
+
+2021-06-08 17:12:26;INFO;====== WebDriver manager ======
+2021-06-08 17:12:26;INFO;Current google-chrome version is 91.0.4472
+2021-06-08 17:12:26;INFO;Get LATEST driver version for 91.0.4472
+2021-06-08 17:12:28;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.19\chromedriver.exe] found in cache
+2021-06-08 17:13:25;INFO;Company is associated  with contact successfully
+2021-06-08 17:13:25;ERROR;Company is not located in active position of contact successfully
+2021-06-08 17:17:12;INFO;
+
+2021-06-08 17:17:12;INFO;====== WebDriver manager ======
+2021-06-08 17:17:12;INFO;Current google-chrome version is 91.0.4472
+2021-06-08 17:17:12;INFO;Get LATEST driver version for 91.0.4472
+2021-06-08 17:17:13;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.19\chromedriver.exe] found in cache
+2021-06-08 17:18:22;INFO;
+
+2021-06-08 17:18:22;INFO;====== WebDriver manager ======
+2021-06-08 17:18:22;INFO;Current google-chrome version is 91.0.4472
+2021-06-08 17:18:22;INFO;Get LATEST driver version for 91.0.4472
+2021-06-08 17:18:23;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.19\chromedriver.exe] found in cache
+2021-06-08 17:19:56;INFO;
+
+2021-06-08 17:19:56;INFO;====== WebDriver manager ======
+2021-06-08 17:19:56;INFO;Current google-chrome version is 91.0.4472
+2021-06-08 17:19:56;INFO;Get LATEST driver version for 91.0.4472
+2021-06-08 17:19:57;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.19\chromedriver.exe] found in cache
+2021-06-08 17:21:48;INFO;
+
+2021-06-08 17:21:48;INFO;====== WebDriver manager ======
+2021-06-08 17:21:48;INFO;Current google-chrome version is 91.0.4472
+2021-06-08 17:21:48;INFO;Get LATEST driver version for 91.0.4472
+2021-06-08 17:21:49;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.19\chromedriver.exe] found in cache
+2021-06-08 17:22:38;INFO;Company is associated  with contact successfully
+2021-06-08 17:22:40;ERROR;Company is not located in active position of contact successfully
+2021-06-08 17:24:41;INFO;
+
+2021-06-08 17:24:41;INFO;====== WebDriver manager ======
+2021-06-08 17:24:41;INFO;Current google-chrome version is 91.0.4472
+2021-06-08 17:24:41;INFO;Get LATEST driver version for 91.0.4472
+2021-06-08 17:24:43;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.19\chromedriver.exe] found in cache
+2021-06-08 17:26:43;INFO;
+
+2021-06-08 17:26:43;INFO;====== WebDriver manager ======
+2021-06-08 17:26:43;INFO;Current google-chrome version is 91.0.4472
+2021-06-08 17:26:43;INFO;Get LATEST driver version for 91.0.4472
+2021-06-08 17:28:22;INFO;
+
+2021-06-08 17:28:22;INFO;====== WebDriver manager ======
+2021-06-08 17:28:22;INFO;Current google-chrome version is 91.0.4472
+2021-06-08 17:28:22;INFO;Get LATEST driver version for 91.0.4472
+2021-06-08 17:29:27;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.19\chromedriver.exe] found in cache
+2021-06-08 17:30:35;INFO;Company is associated  with contact successfully
+2021-06-08 17:30:37;INFO;Company is located in active position of contact successfully
+2021-06-09 10:24:29;INFO;
+
+2021-06-09 10:24:29;INFO;====== WebDriver manager ======
+2021-06-09 10:24:29;INFO;Current google-chrome version is 91.0.4472
+2021-06-09 10:24:29;INFO;Get LATEST driver version for 91.0.4472
+2021-06-09 10:24:31;INFO;Get LATEST driver version for 91.0.4472
+2021-06-09 10:24:32;INFO;Trying to download new driver from https://chromedriver.storage.googleapis.com/91.0.4472.19/chromedriver_win32.zip
+2021-06-09 10:24:37;INFO;Driver has been saved in cache [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.19]
+2021-06-09 10:25:28;INFO;Company added successfully
+2021-06-09 10:25:37;INFO;Company has been deleted successfully
+2021-06-09 10:25:38;INFO;
+
+2021-06-09 10:25:38;INFO;====== WebDriver manager ======
+2021-06-09 10:25:38;INFO;Current google-chrome version is 91.0.4472
+2021-06-09 10:25:38;INFO;Get LATEST driver version for 91.0.4472
+2021-06-09 10:25:39;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.19\chromedriver.exe] found in cache
+2021-06-09 10:26:14;INFO;Contact added successfully inside company
+2021-06-09 10:31:02;INFO;
+
+2021-06-09 10:31:02;INFO;====== WebDriver manager ======
+2021-06-09 10:31:02;INFO;Current google-chrome version is 91.0.4472
+2021-06-09 10:31:02;INFO;Get LATEST driver version for 91.0.4472
+2021-06-09 10:31:03;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.19\chromedriver.exe] found in cache
+2021-06-09 10:32:02;INFO;Deliverable added successfully
+2021-06-09 10:35:10;INFO;
+
+2021-06-09 10:35:10;INFO;====== WebDriver manager ======
+2021-06-09 10:35:10;INFO;Current google-chrome version is 91.0.4472
+2021-06-09 10:35:10;INFO;Get LATEST driver version for 91.0.4472
+2021-06-09 10:35:12;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.19\chromedriver.exe] found in cache
+2021-06-09 10:35:40;INFO;Line item added successfully
+2021-06-09 10:37:14;INFO;
+
+2021-06-09 10:37:14;INFO;====== WebDriver manager ======
+2021-06-09 10:37:14;INFO;Current google-chrome version is 91.0.4472
+2021-06-09 10:37:14;INFO;Get LATEST driver version for 91.0.4472
+2021-06-09 10:37:15;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.19\chromedriver.exe] found in cache
+2021-06-09 10:37:54;INFO;Order added successfully
+2021-06-09 10:39:50;INFO;
+
+2021-06-09 10:39:50;INFO;====== WebDriver manager ======
+2021-06-09 10:39:50;INFO;Current google-chrome version is 91.0.4472
+2021-06-09 10:39:50;INFO;Get LATEST driver version for 91.0.4472
+2021-06-09 10:39:51;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.19\chromedriver.exe] found in cache
+2021-06-09 10:41:15;INFO;Company Role added successfully
+2021-06-09 10:41:29;INFO;Contact is associated with Project as role successfully
+2021-06-09 10:43:14;INFO;
+
+2021-06-09 10:43:14;INFO;====== WebDriver manager ======
+2021-06-09 10:43:14;INFO;Current google-chrome version is 91.0.4472
+2021-06-09 10:43:14;INFO;Get LATEST driver version for 91.0.4472
+2021-06-09 10:43:15;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.19\chromedriver.exe] found in cache
+2021-06-09 10:44:33;INFO;
+
+2021-06-09 10:44:33;INFO;====== WebDriver manager ======
+2021-06-09 10:44:33;INFO;Current google-chrome version is 91.0.4472
+2021-06-09 10:44:33;INFO;Get LATEST driver version for 91.0.4472
+2021-06-09 10:44:34;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.19\chromedriver.exe] found in cache
+2021-06-09 10:46:07;INFO;
+
+2021-06-09 10:46:07;INFO;====== WebDriver manager ======
+2021-06-09 10:46:07;INFO;Current google-chrome version is 91.0.4472
+2021-06-09 10:46:07;INFO;Get LATEST driver version for 91.0.4472
+2021-06-09 10:46:08;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.19\chromedriver.exe] found in cache
+2021-06-09 10:46:35;INFO;
+
+2021-06-09 10:46:35;INFO;====== WebDriver manager ======
+2021-06-09 10:46:35;INFO;Current google-chrome version is 91.0.4472
+2021-06-09 10:46:35;INFO;Get LATEST driver version for 91.0.4472
+2021-06-09 10:46:38;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.19\chromedriver.exe] found in cache
+2021-06-09 10:47:31;ERROR;Company Role not added successfully
+2021-06-09 10:51:41;INFO;
+
+2021-06-09 10:51:41;INFO;====== WebDriver manager ======
+2021-06-09 10:51:41;INFO;Current google-chrome version is 91.0.4472
+2021-06-09 10:51:41;INFO;Get LATEST driver version for 91.0.4472
+2021-06-09 10:51:42;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.19\chromedriver.exe] found in cache
+2021-06-09 10:52:40;INFO;Project added successfully
+2021-06-09 10:53:36;INFO;Project added successfully
+2021-06-09 10:54:31;INFO;Project added successfully
+2021-06-09 10:58:19;INFO;
+
+2021-06-09 10:58:19;INFO;====== WebDriver manager ======
+2021-06-09 10:58:20;INFO;Current google-chrome version is 91.0.4472
+2021-06-09 10:58:20;INFO;Get LATEST driver version for 91.0.4472
+2021-06-09 10:58:21;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.19\chromedriver.exe] found in cache
+2021-06-09 11:03:22;INFO;
+
+2021-06-09 11:03:22;INFO;====== WebDriver manager ======
+2021-06-09 11:03:22;INFO;Current google-chrome version is 91.0.4472
+2021-06-09 11:03:22;INFO;Get LATEST driver version for 91.0.4472
+2021-06-09 11:03:24;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.19\chromedriver.exe] found in cache
+2021-06-09 11:04:10;INFO;Project Source added successfully
+2021-06-12 10:52:16;INFO;
+
+2021-06-12 10:52:16;INFO;
+
+2021-06-12 10:52:16;INFO;
+
+2021-06-12 10:52:16;INFO;
+
+2021-06-12 10:52:16;INFO;
+
+2021-06-12 10:52:16;INFO;
+
+2021-06-12 10:52:16;INFO;
+
+2021-06-12 10:52:16;INFO;
+
+2021-06-12 10:52:16;INFO;
+
+2021-06-12 10:52:16;INFO;
+
+2021-06-12 10:52:16;INFO;====== WebDriver manager ======
+2021-06-12 10:52:16;INFO;====== WebDriver manager ======
+2021-06-12 10:52:16;INFO;====== WebDriver manager ======
+2021-06-12 10:52:16;INFO;====== WebDriver manager ======
+2021-06-12 10:52:16;INFO;====== WebDriver manager ======
+2021-06-12 10:52:16;INFO;====== WebDriver manager ======
+2021-06-12 10:52:16;INFO;====== WebDriver manager ======
+2021-06-12 10:52:16;INFO;====== WebDriver manager ======
+2021-06-12 10:52:16;INFO;====== WebDriver manager ======
+2021-06-12 10:52:16;INFO;====== WebDriver manager ======
+2021-06-12 10:52:16;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:52:16;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:52:16;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:52:16;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:52:16;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:52:16;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:52:16;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:52:16;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:52:16;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:52:16;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:52:16;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:52:16;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:52:16;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:52:16;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:52:16;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:52:16;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:52:16;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:52:16;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:52:16;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:52:16;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:52:19;INFO;There is no [win32] chromedriver for browser 91.0.4472 in cache
+2021-06-12 10:52:19;INFO;There is no [win32] chromedriver for browser 91.0.4472 in cache
+2021-06-12 10:52:19;INFO;There is no [win32] chromedriver for browser 91.0.4472 in cache
+2021-06-12 10:52:19;INFO;There is no [win32] chromedriver for browser 91.0.4472 in cache
+2021-06-12 10:52:19;INFO;There is no [win32] chromedriver for browser 91.0.4472 in cache
+2021-06-12 10:52:19;INFO;There is no [win32] chromedriver for browser 91.0.4472 in cache
+2021-06-12 10:52:19;INFO;There is no [win32] chromedriver for browser 91.0.4472 in cache
+2021-06-12 10:52:19;INFO;There is no [win32] chromedriver for browser 91.0.4472 in cache
+2021-06-12 10:52:19;INFO;There is no [win32] chromedriver for browser 91.0.4472 in cache
+2021-06-12 10:52:19;INFO;There is no [win32] chromedriver for browser 91.0.4472 in cache
+2021-06-12 10:52:19;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:52:19;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:52:19;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:52:19;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:52:19;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:52:19;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:52:19;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:52:19;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:52:19;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:52:19;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:52:20;INFO;Trying to download new driver from https://chromedriver.storage.googleapis.com/91.0.4472.101/chromedriver_win32.zip
+2021-06-12 10:52:20;INFO;Trying to download new driver from https://chromedriver.storage.googleapis.com/91.0.4472.101/chromedriver_win32.zip
+2021-06-12 10:52:20;INFO;Trying to download new driver from https://chromedriver.storage.googleapis.com/91.0.4472.101/chromedriver_win32.zip
+2021-06-12 10:52:20;INFO;Trying to download new driver from https://chromedriver.storage.googleapis.com/91.0.4472.101/chromedriver_win32.zip
+2021-06-12 10:52:20;INFO;Trying to download new driver from https://chromedriver.storage.googleapis.com/91.0.4472.101/chromedriver_win32.zip
+2021-06-12 10:52:20;INFO;Trying to download new driver from https://chromedriver.storage.googleapis.com/91.0.4472.101/chromedriver_win32.zip
+2021-06-12 10:52:20;INFO;Trying to download new driver from https://chromedriver.storage.googleapis.com/91.0.4472.101/chromedriver_win32.zip
+2021-06-12 10:52:20;INFO;Trying to download new driver from https://chromedriver.storage.googleapis.com/91.0.4472.101/chromedriver_win32.zip
+2021-06-12 10:52:20;INFO;Trying to download new driver from https://chromedriver.storage.googleapis.com/91.0.4472.101/chromedriver_win32.zip
+2021-06-12 10:52:20;INFO;Trying to download new driver from https://chromedriver.storage.googleapis.com/91.0.4472.101/chromedriver_win32.zip
+2021-06-12 10:52:24;INFO;Driver has been saved in cache [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101]
+2021-06-12 10:52:24;INFO;Driver has been saved in cache [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101]
+2021-06-12 10:52:24;INFO;Driver has been saved in cache [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101]
+2021-06-12 10:52:24;INFO;Driver has been saved in cache [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101]
+2021-06-12 10:52:24;INFO;Driver has been saved in cache [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101]
+2021-06-12 10:52:24;INFO;Driver has been saved in cache [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101]
+2021-06-12 10:52:24;INFO;Driver has been saved in cache [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101]
+2021-06-12 10:52:24;INFO;Driver has been saved in cache [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101]
+2021-06-12 10:52:24;INFO;Driver has been saved in cache [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101]
+2021-06-12 10:52:24;INFO;Driver has been saved in cache [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101]
+2021-06-12 10:53:12;INFO;
+
+2021-06-12 10:53:12;INFO;
+
+2021-06-12 10:53:12;INFO;
+
+2021-06-12 10:53:12;INFO;
+
+2021-06-12 10:53:12;INFO;
+
+2021-06-12 10:53:12;INFO;
+
+2021-06-12 10:53:12;INFO;
+
+2021-06-12 10:53:12;INFO;
+
+2021-06-12 10:53:12;INFO;
+
+2021-06-12 10:53:12;INFO;
+
+2021-06-12 10:53:12;INFO;====== WebDriver manager ======
+2021-06-12 10:53:12;INFO;====== WebDriver manager ======
+2021-06-12 10:53:12;INFO;====== WebDriver manager ======
+2021-06-12 10:53:12;INFO;====== WebDriver manager ======
+2021-06-12 10:53:12;INFO;====== WebDriver manager ======
+2021-06-12 10:53:12;INFO;====== WebDriver manager ======
+2021-06-12 10:53:12;INFO;====== WebDriver manager ======
+2021-06-12 10:53:12;INFO;====== WebDriver manager ======
+2021-06-12 10:53:12;INFO;====== WebDriver manager ======
+2021-06-12 10:53:12;INFO;====== WebDriver manager ======
+2021-06-12 10:53:12;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:53:12;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:53:12;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:53:12;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:53:12;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:53:12;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:53:12;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:53:12;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:53:12;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:53:12;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:53:12;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:53:12;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:53:12;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:53:12;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:53:12;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:53:12;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:53:12;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:53:12;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:53:12;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:53:12;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:53:14;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:53:14;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:53:14;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:53:14;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:53:14;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:53:14;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:53:14;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:53:14;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:53:14;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:53:14;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:54:03;INFO;
+
+2021-06-12 10:54:03;INFO;
+
+2021-06-12 10:54:03;INFO;
+
+2021-06-12 10:54:03;INFO;
+
+2021-06-12 10:54:03;INFO;
+
+2021-06-12 10:54:03;INFO;
+
+2021-06-12 10:54:03;INFO;
+
+2021-06-12 10:54:03;INFO;
+
+2021-06-12 10:54:03;INFO;
+
+2021-06-12 10:54:03;INFO;
+
+2021-06-12 10:54:03;INFO;====== WebDriver manager ======
+2021-06-12 10:54:03;INFO;====== WebDriver manager ======
+2021-06-12 10:54:03;INFO;====== WebDriver manager ======
+2021-06-12 10:54:03;INFO;====== WebDriver manager ======
+2021-06-12 10:54:03;INFO;====== WebDriver manager ======
+2021-06-12 10:54:03;INFO;====== WebDriver manager ======
+2021-06-12 10:54:03;INFO;====== WebDriver manager ======
+2021-06-12 10:54:03;INFO;====== WebDriver manager ======
+2021-06-12 10:54:03;INFO;====== WebDriver manager ======
+2021-06-12 10:54:03;INFO;====== WebDriver manager ======
+2021-06-12 10:54:03;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:54:03;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:54:03;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:54:03;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:54:03;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:54:03;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:54:03;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:54:03;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:54:03;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:54:03;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:54:03;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:54:03;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:54:03;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:54:03;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:54:03;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:54:03;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:54:03;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:54:03;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:54:03;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:54:03;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:54:04;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:54:04;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:54:04;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:54:04;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:54:04;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:54:04;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:54:04;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:54:04;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:54:04;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:54:04;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:55:01;INFO;
+
+2021-06-12 10:55:01;INFO;
+
+2021-06-12 10:55:01;INFO;
+
+2021-06-12 10:55:01;INFO;
+
+2021-06-12 10:55:01;INFO;
+
+2021-06-12 10:55:01;INFO;
+
+2021-06-12 10:55:01;INFO;
+
+2021-06-12 10:55:01;INFO;
+
+2021-06-12 10:55:01;INFO;
+
+2021-06-12 10:55:01;INFO;
+
+2021-06-12 10:55:01;INFO;====== WebDriver manager ======
+2021-06-12 10:55:01;INFO;====== WebDriver manager ======
+2021-06-12 10:55:01;INFO;====== WebDriver manager ======
+2021-06-12 10:55:01;INFO;====== WebDriver manager ======
+2021-06-12 10:55:01;INFO;====== WebDriver manager ======
+2021-06-12 10:55:01;INFO;====== WebDriver manager ======
+2021-06-12 10:55:01;INFO;====== WebDriver manager ======
+2021-06-12 10:55:01;INFO;====== WebDriver manager ======
+2021-06-12 10:55:01;INFO;====== WebDriver manager ======
+2021-06-12 10:55:01;INFO;====== WebDriver manager ======
+2021-06-12 10:55:01;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:55:01;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:55:01;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:55:01;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:55:01;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:55:01;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:55:01;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:55:01;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:55:01;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:55:01;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:55:01;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:55:01;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:55:01;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:55:01;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:55:01;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:55:01;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:55:01;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:55:01;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:55:01;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:55:01;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:55:02;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:55:02;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:55:02;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:55:02;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:55:02;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:55:02;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:55:02;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:55:02;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:55:02;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:55:02;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:55:52;INFO;Company added successfully
+2021-06-12 10:55:52;INFO;Company added successfully
+2021-06-12 10:55:52;INFO;Company added successfully
+2021-06-12 10:55:52;INFO;Company added successfully
+2021-06-12 10:55:52;INFO;Company added successfully
+2021-06-12 10:55:52;INFO;Company added successfully
+2021-06-12 10:55:52;INFO;Company added successfully
+2021-06-12 10:55:52;INFO;Company added successfully
+2021-06-12 10:55:52;INFO;Company added successfully
+2021-06-12 10:55:52;INFO;Company added successfully
+2021-06-12 10:56:03;INFO;Company has been deleted successfully
+2021-06-12 10:56:03;INFO;Company has been deleted successfully
+2021-06-12 10:56:03;INFO;Company has been deleted successfully
+2021-06-12 10:56:03;INFO;Company has been deleted successfully
+2021-06-12 10:56:03;INFO;Company has been deleted successfully
+2021-06-12 10:56:03;INFO;Company has been deleted successfully
+2021-06-12 10:56:03;INFO;Company has been deleted successfully
+2021-06-12 10:56:03;INFO;Company has been deleted successfully
+2021-06-12 10:56:03;INFO;Company has been deleted successfully
+2021-06-12 10:56:03;INFO;Company has been deleted successfully
+2021-06-12 10:56:04;INFO;
+
+2021-06-12 10:56:04;INFO;
+
+2021-06-12 10:56:04;INFO;
+
+2021-06-12 10:56:04;INFO;
+
+2021-06-12 10:56:04;INFO;
+
+2021-06-12 10:56:04;INFO;
+
+2021-06-12 10:56:04;INFO;
+
+2021-06-12 10:56:04;INFO;
+
+2021-06-12 10:56:04;INFO;
+
+2021-06-12 10:56:04;INFO;
+
+2021-06-12 10:56:04;INFO;====== WebDriver manager ======
+2021-06-12 10:56:04;INFO;====== WebDriver manager ======
+2021-06-12 10:56:04;INFO;====== WebDriver manager ======
+2021-06-12 10:56:04;INFO;====== WebDriver manager ======
+2021-06-12 10:56:04;INFO;====== WebDriver manager ======
+2021-06-12 10:56:04;INFO;====== WebDriver manager ======
+2021-06-12 10:56:04;INFO;====== WebDriver manager ======
+2021-06-12 10:56:04;INFO;====== WebDriver manager ======
+2021-06-12 10:56:04;INFO;====== WebDriver manager ======
+2021-06-12 10:56:04;INFO;====== WebDriver manager ======
+2021-06-12 10:56:04;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:56:04;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:56:04;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:56:04;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:56:04;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:56:04;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:56:04;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:56:04;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:56:04;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:56:04;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:56:04;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:56:04;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:56:04;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:56:04;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:56:04;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:56:04;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:56:04;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:56:04;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:56:04;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:56:04;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:56:05;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:56:05;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:56:05;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:56:05;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:56:05;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:56:05;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:56:05;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:56:05;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:56:05;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:56:05;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:57:03;INFO;
+
+2021-06-12 10:57:03;INFO;
+
+2021-06-12 10:57:03;INFO;
+
+2021-06-12 10:57:03;INFO;
+
+2021-06-12 10:57:03;INFO;
+
+2021-06-12 10:57:03;INFO;
+
+2021-06-12 10:57:03;INFO;
+
+2021-06-12 10:57:03;INFO;
+
+2021-06-12 10:57:03;INFO;
+
+2021-06-12 10:57:03;INFO;
+
+2021-06-12 10:57:03;INFO;====== WebDriver manager ======
+2021-06-12 10:57:03;INFO;====== WebDriver manager ======
+2021-06-12 10:57:03;INFO;====== WebDriver manager ======
+2021-06-12 10:57:03;INFO;====== WebDriver manager ======
+2021-06-12 10:57:03;INFO;====== WebDriver manager ======
+2021-06-12 10:57:03;INFO;====== WebDriver manager ======
+2021-06-12 10:57:03;INFO;====== WebDriver manager ======
+2021-06-12 10:57:03;INFO;====== WebDriver manager ======
+2021-06-12 10:57:03;INFO;====== WebDriver manager ======
+2021-06-12 10:57:03;INFO;====== WebDriver manager ======
+2021-06-12 10:57:03;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:57:03;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:57:03;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:57:03;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:57:03;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:57:03;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:57:03;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:57:03;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:57:03;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:57:03;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:57:03;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:57:03;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:57:03;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:57:03;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:57:03;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:57:03;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:57:03;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:57:03;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:57:03;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:57:03;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:57:04;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:57:04;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:57:04;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:57:04;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:57:04;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:57:04;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:57:04;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:57:04;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:57:04;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:57:04;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:58:04;INFO;
+
+2021-06-12 10:58:04;INFO;
+
+2021-06-12 10:58:04;INFO;
+
+2021-06-12 10:58:04;INFO;
+
+2021-06-12 10:58:04;INFO;
+
+2021-06-12 10:58:04;INFO;
+
+2021-06-12 10:58:04;INFO;
+
+2021-06-12 10:58:04;INFO;
+
+2021-06-12 10:58:04;INFO;
+
+2021-06-12 10:58:04;INFO;
+
+2021-06-12 10:58:04;INFO;====== WebDriver manager ======
+2021-06-12 10:58:04;INFO;====== WebDriver manager ======
+2021-06-12 10:58:04;INFO;====== WebDriver manager ======
+2021-06-12 10:58:04;INFO;====== WebDriver manager ======
+2021-06-12 10:58:04;INFO;====== WebDriver manager ======
+2021-06-12 10:58:04;INFO;====== WebDriver manager ======
+2021-06-12 10:58:04;INFO;====== WebDriver manager ======
+2021-06-12 10:58:04;INFO;====== WebDriver manager ======
+2021-06-12 10:58:04;INFO;====== WebDriver manager ======
+2021-06-12 10:58:04;INFO;====== WebDriver manager ======
+2021-06-12 10:58:04;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:58:04;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:58:04;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:58:04;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:58:04;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:58:04;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:58:04;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:58:04;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:58:04;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:58:04;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:58:04;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:58:04;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:58:04;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:58:04;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:58:04;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:58:04;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:58:04;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:58:04;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:58:04;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:58:04;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:58:06;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:58:06;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:58:06;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:58:06;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:58:06;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:58:06;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:58:06;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:58:06;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:58:06;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:58:06;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:58:54;INFO;
+
+2021-06-12 10:58:54;INFO;
+
+2021-06-12 10:58:54;INFO;
+
+2021-06-12 10:58:54;INFO;
+
+2021-06-12 10:58:54;INFO;
+
+2021-06-12 10:58:54;INFO;
+
+2021-06-12 10:58:54;INFO;
+
+2021-06-12 10:58:54;INFO;
+
+2021-06-12 10:58:54;INFO;
+
+2021-06-12 10:58:54;INFO;
+
+2021-06-12 10:58:54;INFO;====== WebDriver manager ======
+2021-06-12 10:58:54;INFO;====== WebDriver manager ======
+2021-06-12 10:58:54;INFO;====== WebDriver manager ======
+2021-06-12 10:58:54;INFO;====== WebDriver manager ======
+2021-06-12 10:58:54;INFO;====== WebDriver manager ======
+2021-06-12 10:58:54;INFO;====== WebDriver manager ======
+2021-06-12 10:58:54;INFO;====== WebDriver manager ======
+2021-06-12 10:58:54;INFO;====== WebDriver manager ======
+2021-06-12 10:58:54;INFO;====== WebDriver manager ======
+2021-06-12 10:58:54;INFO;====== WebDriver manager ======
+2021-06-12 10:58:54;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:58:54;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:58:54;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:58:54;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:58:54;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:58:54;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:58:54;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:58:54;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:58:54;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:58:54;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:58:54;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:58:54;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:58:54;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:58:54;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:58:54;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:58:54;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:58:54;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:58:54;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:58:54;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:58:54;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:58:55;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:58:55;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:58:55;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:58:55;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:58:55;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:58:55;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:58:55;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:58:55;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:58:55;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:58:55;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:59:44;INFO;
+
+2021-06-12 10:59:44;INFO;
+
+2021-06-12 10:59:44;INFO;
+
+2021-06-12 10:59:44;INFO;
+
+2021-06-12 10:59:44;INFO;
+
+2021-06-12 10:59:44;INFO;
+
+2021-06-12 10:59:44;INFO;
+
+2021-06-12 10:59:44;INFO;
+
+2021-06-12 10:59:44;INFO;
+
+2021-06-12 10:59:44;INFO;
+
+2021-06-12 10:59:44;INFO;====== WebDriver manager ======
+2021-06-12 10:59:44;INFO;====== WebDriver manager ======
+2021-06-12 10:59:44;INFO;====== WebDriver manager ======
+2021-06-12 10:59:44;INFO;====== WebDriver manager ======
+2021-06-12 10:59:44;INFO;====== WebDriver manager ======
+2021-06-12 10:59:44;INFO;====== WebDriver manager ======
+2021-06-12 10:59:44;INFO;====== WebDriver manager ======
+2021-06-12 10:59:44;INFO;====== WebDriver manager ======
+2021-06-12 10:59:44;INFO;====== WebDriver manager ======
+2021-06-12 10:59:44;INFO;====== WebDriver manager ======
+2021-06-12 10:59:44;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:59:44;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:59:44;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:59:44;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:59:44;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:59:44;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:59:44;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:59:44;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:59:44;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:59:44;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 10:59:44;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:59:44;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:59:44;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:59:44;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:59:44;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:59:44;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:59:44;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:59:44;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:59:44;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:59:44;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 10:59:46;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:59:46;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:59:46;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:59:46;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:59:46;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:59:46;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:59:46;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:59:46;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:59:46;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 10:59:46;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:00:51;INFO;Line item added successfully
+2021-06-12 11:00:51;INFO;Line item added successfully
+2021-06-12 11:00:51;INFO;Line item added successfully
+2021-06-12 11:00:51;INFO;Line item added successfully
+2021-06-12 11:00:51;INFO;Line item added successfully
+2021-06-12 11:00:51;INFO;Line item added successfully
+2021-06-12 11:00:51;INFO;Line item added successfully
+2021-06-12 11:00:51;INFO;Line item added successfully
+2021-06-12 11:00:51;INFO;Line item added successfully
+2021-06-12 11:00:51;INFO;Line item added successfully
+2021-06-12 11:00:51;INFO;
+
+2021-06-12 11:00:51;INFO;
+
+2021-06-12 11:00:51;INFO;
+
+2021-06-12 11:00:51;INFO;
+
+2021-06-12 11:00:51;INFO;
+
+2021-06-12 11:00:51;INFO;
+
+2021-06-12 11:00:51;INFO;
+
+2021-06-12 11:00:51;INFO;
+
+2021-06-12 11:00:51;INFO;
+
+2021-06-12 11:00:51;INFO;
+
+2021-06-12 11:00:51;INFO;====== WebDriver manager ======
+2021-06-12 11:00:51;INFO;====== WebDriver manager ======
+2021-06-12 11:00:51;INFO;====== WebDriver manager ======
+2021-06-12 11:00:51;INFO;====== WebDriver manager ======
+2021-06-12 11:00:51;INFO;====== WebDriver manager ======
+2021-06-12 11:00:51;INFO;====== WebDriver manager ======
+2021-06-12 11:00:51;INFO;====== WebDriver manager ======
+2021-06-12 11:00:51;INFO;====== WebDriver manager ======
+2021-06-12 11:00:51;INFO;====== WebDriver manager ======
+2021-06-12 11:00:51;INFO;====== WebDriver manager ======
+2021-06-12 11:00:51;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:00:51;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:00:51;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:00:51;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:00:51;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:00:51;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:00:51;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:00:51;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:00:51;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:00:51;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:00:51;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:00:51;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:00:51;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:00:51;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:00:51;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:00:51;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:00:51;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:00:51;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:00:51;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:00:51;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:00:52;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:00:52;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:00:52;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:00:52;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:00:52;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:00:52;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:00:52;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:00:52;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:00:52;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:00:52;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:02:00;INFO;
+
+2021-06-12 11:02:00;INFO;
+
+2021-06-12 11:02:00;INFO;
+
+2021-06-12 11:02:00;INFO;
+
+2021-06-12 11:02:00;INFO;
+
+2021-06-12 11:02:00;INFO;
+
+2021-06-12 11:02:00;INFO;
+
+2021-06-12 11:02:00;INFO;
+
+2021-06-12 11:02:00;INFO;
+
+2021-06-12 11:02:00;INFO;
+
+2021-06-12 11:02:00;INFO;====== WebDriver manager ======
+2021-06-12 11:02:00;INFO;====== WebDriver manager ======
+2021-06-12 11:02:00;INFO;====== WebDriver manager ======
+2021-06-12 11:02:00;INFO;====== WebDriver manager ======
+2021-06-12 11:02:00;INFO;====== WebDriver manager ======
+2021-06-12 11:02:00;INFO;====== WebDriver manager ======
+2021-06-12 11:02:00;INFO;====== WebDriver manager ======
+2021-06-12 11:02:00;INFO;====== WebDriver manager ======
+2021-06-12 11:02:00;INFO;====== WebDriver manager ======
+2021-06-12 11:02:00;INFO;====== WebDriver manager ======
+2021-06-12 11:02:00;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:02:00;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:02:00;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:02:00;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:02:00;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:02:00;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:02:00;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:02:00;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:02:00;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:02:00;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:02:00;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:02:00;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:02:00;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:02:00;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:02:00;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:02:00;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:02:00;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:02:00;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:02:00;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:02:00;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:02:01;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:02:01;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:02:01;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:02:01;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:02:01;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:02:01;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:02:01;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:02:01;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:02:01;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:02:01;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:03:16;ERROR;Project not added successfully
+2021-06-12 11:03:16;ERROR;Project not added successfully
+2021-06-12 11:03:16;ERROR;Project not added successfully
+2021-06-12 11:03:16;ERROR;Project not added successfully
+2021-06-12 11:03:16;ERROR;Project not added successfully
+2021-06-12 11:03:16;ERROR;Project not added successfully
+2021-06-12 11:03:16;ERROR;Project not added successfully
+2021-06-12 11:03:16;ERROR;Project not added successfully
+2021-06-12 11:03:16;ERROR;Project not added successfully
+2021-06-12 11:03:16;ERROR;Project not added successfully
+2021-06-12 11:03:17;INFO;
+
+2021-06-12 11:03:17;INFO;
+
+2021-06-12 11:03:17;INFO;
+
+2021-06-12 11:03:17;INFO;
+
+2021-06-12 11:03:17;INFO;
+
+2021-06-12 11:03:17;INFO;
+
+2021-06-12 11:03:17;INFO;
+
+2021-06-12 11:03:17;INFO;
+
+2021-06-12 11:03:17;INFO;
+
+2021-06-12 11:03:17;INFO;
+
+2021-06-12 11:03:17;INFO;====== WebDriver manager ======
+2021-06-12 11:03:17;INFO;====== WebDriver manager ======
+2021-06-12 11:03:17;INFO;====== WebDriver manager ======
+2021-06-12 11:03:17;INFO;====== WebDriver manager ======
+2021-06-12 11:03:17;INFO;====== WebDriver manager ======
+2021-06-12 11:03:17;INFO;====== WebDriver manager ======
+2021-06-12 11:03:17;INFO;====== WebDriver manager ======
+2021-06-12 11:03:17;INFO;====== WebDriver manager ======
+2021-06-12 11:03:17;INFO;====== WebDriver manager ======
+2021-06-12 11:03:17;INFO;====== WebDriver manager ======
+2021-06-12 11:03:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:03:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:03:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:03:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:03:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:03:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:03:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:03:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:03:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:03:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:03:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:03:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:03:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:03:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:03:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:03:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:03:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:03:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:03:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:03:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:03:19;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:03:19;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:03:19;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:03:19;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:03:19;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:03:19;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:03:19;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:03:19;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:03:19;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:03:19;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:05:13;ERROR;Project Source not added successfully
+2021-06-12 11:05:13;ERROR;Project Source not added successfully
+2021-06-12 11:05:13;ERROR;Project Source not added successfully
+2021-06-12 11:05:13;ERROR;Project Source not added successfully
+2021-06-12 11:05:13;ERROR;Project Source not added successfully
+2021-06-12 11:05:13;ERROR;Project Source not added successfully
+2021-06-12 11:05:13;ERROR;Project Source not added successfully
+2021-06-12 11:05:13;ERROR;Project Source not added successfully
+2021-06-12 11:05:13;ERROR;Project Source not added successfully
+2021-06-12 11:05:13;ERROR;Project Source not added successfully
+2021-06-12 11:05:13;INFO;
+
+2021-06-12 11:05:13;INFO;
+
+2021-06-12 11:05:13;INFO;
+
+2021-06-12 11:05:13;INFO;
+
+2021-06-12 11:05:13;INFO;
+
+2021-06-12 11:05:13;INFO;
+
+2021-06-12 11:05:13;INFO;
+
+2021-06-12 11:05:13;INFO;
+
+2021-06-12 11:05:13;INFO;
+
+2021-06-12 11:05:13;INFO;
+
+2021-06-12 11:05:13;INFO;====== WebDriver manager ======
+2021-06-12 11:05:13;INFO;====== WebDriver manager ======
+2021-06-12 11:05:13;INFO;====== WebDriver manager ======
+2021-06-12 11:05:13;INFO;====== WebDriver manager ======
+2021-06-12 11:05:13;INFO;====== WebDriver manager ======
+2021-06-12 11:05:13;INFO;====== WebDriver manager ======
+2021-06-12 11:05:13;INFO;====== WebDriver manager ======
+2021-06-12 11:05:13;INFO;====== WebDriver manager ======
+2021-06-12 11:05:13;INFO;====== WebDriver manager ======
+2021-06-12 11:05:13;INFO;====== WebDriver manager ======
+2021-06-12 11:05:13;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:05:13;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:05:13;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:05:13;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:05:13;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:05:13;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:05:13;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:05:13;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:05:13;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:05:13;INFO;Current google-chrome version is 91.0.4472
+2021-06-12 11:05:13;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:05:13;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:05:13;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:05:13;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:05:13;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:05:13;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:05:13;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:05:13;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:05:13;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:05:13;INFO;Get LATEST driver version for 91.0.4472
+2021-06-12 11:05:15;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:05:15;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:05:15;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:05:15;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:05:15;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:05:15;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:05:15;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:05:15;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:05:15;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:05:15;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-12 11:06:03;INFO;Deliverable added successfully
+2021-06-12 11:06:03;INFO;Deliverable added successfully
+2021-06-12 11:06:03;INFO;Deliverable added successfully
+2021-06-12 11:06:03;INFO;Deliverable added successfully
+2021-06-12 11:06:03;INFO;Deliverable added successfully
+2021-06-12 11:06:03;INFO;Deliverable added successfully
+2021-06-12 11:06:03;INFO;Deliverable added successfully
+2021-06-12 11:06:03;INFO;Deliverable added successfully
+2021-06-12 11:06:03;INFO;Deliverable added successfully
+2021-06-12 11:06:03;INFO;Deliverable added successfully
+2021-06-14 13:14:09;INFO;
+
+2021-06-14 13:14:09;INFO;
+
+2021-06-14 13:14:09;INFO;
+
+2021-06-14 13:14:09;INFO;
+
+2021-06-14 13:14:09;INFO;
+
+2021-06-14 13:14:09;INFO;
+
+2021-06-14 13:14:09;INFO;
+
+2021-06-14 13:14:09;INFO;
+
+2021-06-14 13:14:09;INFO;
+
+2021-06-14 13:14:09;INFO;
+
+2021-06-14 13:14:09;INFO;====== WebDriver manager ======
+2021-06-14 13:14:09;INFO;====== WebDriver manager ======
+2021-06-14 13:14:09;INFO;====== WebDriver manager ======
+2021-06-14 13:14:09;INFO;====== WebDriver manager ======
+2021-06-14 13:14:09;INFO;====== WebDriver manager ======
+2021-06-14 13:14:09;INFO;====== WebDriver manager ======
+2021-06-14 13:14:09;INFO;====== WebDriver manager ======
+2021-06-14 13:14:09;INFO;====== WebDriver manager ======
+2021-06-14 13:14:09;INFO;====== WebDriver manager ======
+2021-06-14 13:14:09;INFO;====== WebDriver manager ======
+2021-06-14 13:14:09;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:14:09;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:14:09;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:14:09;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:14:09;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:14:09;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:14:09;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:14:09;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:14:09;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:14:09;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:14:09;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:14:09;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:14:09;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:14:09;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:14:09;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:14:09;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:14:09;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:14:09;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:14:09;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:14:09;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:14:10;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:14:10;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:14:10;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:14:10;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:14:10;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:14:10;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:14:10;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:14:10;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:14:10;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:14:10;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:14:11;INFO;Trying to download new driver from https://chromedriver.storage.googleapis.com/91.0.4472.101/chromedriver_win32.zip
+2021-06-14 13:14:11;INFO;Trying to download new driver from https://chromedriver.storage.googleapis.com/91.0.4472.101/chromedriver_win32.zip
+2021-06-14 13:14:11;INFO;Trying to download new driver from https://chromedriver.storage.googleapis.com/91.0.4472.101/chromedriver_win32.zip
+2021-06-14 13:14:11;INFO;Trying to download new driver from https://chromedriver.storage.googleapis.com/91.0.4472.101/chromedriver_win32.zip
+2021-06-14 13:14:11;INFO;Trying to download new driver from https://chromedriver.storage.googleapis.com/91.0.4472.101/chromedriver_win32.zip
+2021-06-14 13:14:11;INFO;Trying to download new driver from https://chromedriver.storage.googleapis.com/91.0.4472.101/chromedriver_win32.zip
+2021-06-14 13:14:11;INFO;Trying to download new driver from https://chromedriver.storage.googleapis.com/91.0.4472.101/chromedriver_win32.zip
+2021-06-14 13:14:11;INFO;Trying to download new driver from https://chromedriver.storage.googleapis.com/91.0.4472.101/chromedriver_win32.zip
+2021-06-14 13:14:11;INFO;Trying to download new driver from https://chromedriver.storage.googleapis.com/91.0.4472.101/chromedriver_win32.zip
+2021-06-14 13:14:11;INFO;Trying to download new driver from https://chromedriver.storage.googleapis.com/91.0.4472.101/chromedriver_win32.zip
+2021-06-14 13:14:16;INFO;Driver has been saved in cache [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101]
+2021-06-14 13:14:16;INFO;Driver has been saved in cache [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101]
+2021-06-14 13:14:16;INFO;Driver has been saved in cache [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101]
+2021-06-14 13:14:16;INFO;Driver has been saved in cache [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101]
+2021-06-14 13:14:16;INFO;Driver has been saved in cache [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101]
+2021-06-14 13:14:16;INFO;Driver has been saved in cache [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101]
+2021-06-14 13:14:16;INFO;Driver has been saved in cache [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101]
+2021-06-14 13:14:16;INFO;Driver has been saved in cache [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101]
+2021-06-14 13:14:16;INFO;Driver has been saved in cache [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101]
+2021-06-14 13:14:16;INFO;Driver has been saved in cache [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101]
+2021-06-14 13:14:56;INFO;
+
+2021-06-14 13:14:56;INFO;
+
+2021-06-14 13:14:56;INFO;
+
+2021-06-14 13:14:56;INFO;
+
+2021-06-14 13:14:56;INFO;
+
+2021-06-14 13:14:56;INFO;
+
+2021-06-14 13:14:56;INFO;
+
+2021-06-14 13:14:56;INFO;
+
+2021-06-14 13:14:56;INFO;
+
+2021-06-14 13:14:56;INFO;
+
+2021-06-14 13:14:56;INFO;====== WebDriver manager ======
+2021-06-14 13:14:56;INFO;====== WebDriver manager ======
+2021-06-14 13:14:56;INFO;====== WebDriver manager ======
+2021-06-14 13:14:56;INFO;====== WebDriver manager ======
+2021-06-14 13:14:56;INFO;====== WebDriver manager ======
+2021-06-14 13:14:56;INFO;====== WebDriver manager ======
+2021-06-14 13:14:56;INFO;====== WebDriver manager ======
+2021-06-14 13:14:56;INFO;====== WebDriver manager ======
+2021-06-14 13:14:56;INFO;====== WebDriver manager ======
+2021-06-14 13:14:56;INFO;====== WebDriver manager ======
+2021-06-14 13:14:56;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:14:56;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:14:56;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:14:56;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:14:56;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:14:56;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:14:56;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:14:56;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:14:56;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:14:56;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:14:56;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:14:56;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:14:56;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:14:56;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:14:56;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:14:56;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:14:56;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:14:56;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:14:56;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:14:56;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:14:58;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:14:58;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:14:58;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:14:58;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:14:58;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:14:58;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:14:58;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:14:58;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:14:58;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:14:58;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:15:34;INFO;
+
+2021-06-14 13:15:34;INFO;
+
+2021-06-14 13:15:34;INFO;
+
+2021-06-14 13:15:34;INFO;
+
+2021-06-14 13:15:34;INFO;
+
+2021-06-14 13:15:34;INFO;
+
+2021-06-14 13:15:34;INFO;
+
+2021-06-14 13:15:34;INFO;
+
+2021-06-14 13:15:34;INFO;
+
+2021-06-14 13:15:34;INFO;
+
+2021-06-14 13:15:34;INFO;====== WebDriver manager ======
+2021-06-14 13:15:34;INFO;====== WebDriver manager ======
+2021-06-14 13:15:34;INFO;====== WebDriver manager ======
+2021-06-14 13:15:34;INFO;====== WebDriver manager ======
+2021-06-14 13:15:34;INFO;====== WebDriver manager ======
+2021-06-14 13:15:34;INFO;====== WebDriver manager ======
+2021-06-14 13:15:34;INFO;====== WebDriver manager ======
+2021-06-14 13:15:34;INFO;====== WebDriver manager ======
+2021-06-14 13:15:34;INFO;====== WebDriver manager ======
+2021-06-14 13:15:34;INFO;====== WebDriver manager ======
+2021-06-14 13:15:34;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:15:34;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:15:34;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:15:34;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:15:34;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:15:34;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:15:34;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:15:34;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:15:34;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:15:34;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:15:34;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:15:34;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:15:34;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:15:34;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:15:34;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:15:34;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:15:34;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:15:34;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:15:34;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:15:34;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:15:35;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:15:35;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:15:35;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:15:35;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:15:35;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:15:35;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:15:35;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:15:35;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:15:35;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:15:35;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:16:09;INFO;
+
+2021-06-14 13:16:09;INFO;
+
+2021-06-14 13:16:09;INFO;
+
+2021-06-14 13:16:09;INFO;
+
+2021-06-14 13:16:09;INFO;
+
+2021-06-14 13:16:09;INFO;
+
+2021-06-14 13:16:09;INFO;
+
+2021-06-14 13:16:09;INFO;
+
+2021-06-14 13:16:09;INFO;
+
+2021-06-14 13:16:09;INFO;
+
+2021-06-14 13:16:09;INFO;====== WebDriver manager ======
+2021-06-14 13:16:09;INFO;====== WebDriver manager ======
+2021-06-14 13:16:09;INFO;====== WebDriver manager ======
+2021-06-14 13:16:09;INFO;====== WebDriver manager ======
+2021-06-14 13:16:09;INFO;====== WebDriver manager ======
+2021-06-14 13:16:09;INFO;====== WebDriver manager ======
+2021-06-14 13:16:09;INFO;====== WebDriver manager ======
+2021-06-14 13:16:09;INFO;====== WebDriver manager ======
+2021-06-14 13:16:09;INFO;====== WebDriver manager ======
+2021-06-14 13:16:09;INFO;====== WebDriver manager ======
+2021-06-14 13:16:09;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:16:09;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:16:09;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:16:09;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:16:09;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:16:09;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:16:09;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:16:09;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:16:09;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:16:09;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:16:09;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:16:09;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:16:09;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:16:09;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:16:09;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:16:09;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:16:09;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:16:09;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:16:09;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:16:09;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:16:10;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:16:10;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:16:10;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:16:10;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:16:10;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:16:10;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:16:10;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:16:10;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:16:10;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:16:10;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:16:47;INFO;Company added successfully
+2021-06-14 13:16:47;INFO;Company added successfully
+2021-06-14 13:16:47;INFO;Company added successfully
+2021-06-14 13:16:47;INFO;Company added successfully
+2021-06-14 13:16:47;INFO;Company added successfully
+2021-06-14 13:16:47;INFO;Company added successfully
+2021-06-14 13:16:47;INFO;Company added successfully
+2021-06-14 13:16:47;INFO;Company added successfully
+2021-06-14 13:16:47;INFO;Company added successfully
+2021-06-14 13:16:47;INFO;Company added successfully
+2021-06-14 13:17:00;INFO;Company has been deleted successfully
+2021-06-14 13:17:00;INFO;Company has been deleted successfully
+2021-06-14 13:17:00;INFO;Company has been deleted successfully
+2021-06-14 13:17:00;INFO;Company has been deleted successfully
+2021-06-14 13:17:00;INFO;Company has been deleted successfully
+2021-06-14 13:17:00;INFO;Company has been deleted successfully
+2021-06-14 13:17:00;INFO;Company has been deleted successfully
+2021-06-14 13:17:00;INFO;Company has been deleted successfully
+2021-06-14 13:17:00;INFO;Company has been deleted successfully
+2021-06-14 13:17:00;INFO;Company has been deleted successfully
+2021-06-14 13:17:00;INFO;
+
+2021-06-14 13:17:00;INFO;
+
+2021-06-14 13:17:00;INFO;
+
+2021-06-14 13:17:00;INFO;
+
+2021-06-14 13:17:00;INFO;
+
+2021-06-14 13:17:00;INFO;
+
+2021-06-14 13:17:00;INFO;
+
+2021-06-14 13:17:00;INFO;
+
+2021-06-14 13:17:00;INFO;
+
+2021-06-14 13:17:00;INFO;
+
+2021-06-14 13:17:00;INFO;====== WebDriver manager ======
+2021-06-14 13:17:00;INFO;====== WebDriver manager ======
+2021-06-14 13:17:00;INFO;====== WebDriver manager ======
+2021-06-14 13:17:00;INFO;====== WebDriver manager ======
+2021-06-14 13:17:00;INFO;====== WebDriver manager ======
+2021-06-14 13:17:00;INFO;====== WebDriver manager ======
+2021-06-14 13:17:00;INFO;====== WebDriver manager ======
+2021-06-14 13:17:00;INFO;====== WebDriver manager ======
+2021-06-14 13:17:00;INFO;====== WebDriver manager ======
+2021-06-14 13:17:00;INFO;====== WebDriver manager ======
+2021-06-14 13:17:00;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:17:00;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:17:00;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:17:00;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:17:00;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:17:00;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:17:00;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:17:00;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:17:00;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:17:00;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:17:00;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:17:00;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:17:00;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:17:00;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:17:00;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:17:00;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:17:00;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:17:00;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:17:00;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:17:00;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:17:01;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:17:01;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:17:01;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:17:01;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:17:01;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:17:01;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:17:01;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:17:01;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:17:01;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:17:01;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:17:47;INFO;Contact added successfully inside company
+2021-06-14 13:17:47;INFO;Contact added successfully inside company
+2021-06-14 13:17:47;INFO;Contact added successfully inside company
+2021-06-14 13:17:47;INFO;Contact added successfully inside company
+2021-06-14 13:17:47;INFO;Contact added successfully inside company
+2021-06-14 13:17:47;INFO;Contact added successfully inside company
+2021-06-14 13:17:47;INFO;Contact added successfully inside company
+2021-06-14 13:17:47;INFO;Contact added successfully inside company
+2021-06-14 13:17:47;INFO;Contact added successfully inside company
+2021-06-14 13:17:47;INFO;Contact added successfully inside company
+2021-06-14 13:17:47;INFO;
+
+2021-06-14 13:17:47;INFO;
+
+2021-06-14 13:17:47;INFO;
+
+2021-06-14 13:17:47;INFO;
+
+2021-06-14 13:17:47;INFO;
+
+2021-06-14 13:17:47;INFO;
+
+2021-06-14 13:17:47;INFO;
+
+2021-06-14 13:17:47;INFO;
+
+2021-06-14 13:17:47;INFO;
+
+2021-06-14 13:17:47;INFO;
+
+2021-06-14 13:17:47;INFO;====== WebDriver manager ======
+2021-06-14 13:17:47;INFO;====== WebDriver manager ======
+2021-06-14 13:17:47;INFO;====== WebDriver manager ======
+2021-06-14 13:17:47;INFO;====== WebDriver manager ======
+2021-06-14 13:17:47;INFO;====== WebDriver manager ======
+2021-06-14 13:17:47;INFO;====== WebDriver manager ======
+2021-06-14 13:17:47;INFO;====== WebDriver manager ======
+2021-06-14 13:17:47;INFO;====== WebDriver manager ======
+2021-06-14 13:17:47;INFO;====== WebDriver manager ======
+2021-06-14 13:17:47;INFO;====== WebDriver manager ======
+2021-06-14 13:17:48;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:17:48;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:17:48;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:17:48;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:17:48;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:17:48;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:17:48;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:17:48;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:17:48;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:17:48;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:17:48;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:17:48;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:17:48;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:17:48;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:17:48;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:17:48;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:17:48;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:17:48;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:17:48;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:17:48;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:17:49;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:17:49;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:17:49;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:17:49;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:17:49;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:17:49;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:17:49;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:17:49;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:17:49;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:17:49;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:18:33;ERROR;Company Role not added successfully
+2021-06-14 13:18:33;ERROR;Company Role not added successfully
+2021-06-14 13:18:33;ERROR;Company Role not added successfully
+2021-06-14 13:18:33;ERROR;Company Role not added successfully
+2021-06-14 13:18:33;ERROR;Company Role not added successfully
+2021-06-14 13:18:33;ERROR;Company Role not added successfully
+2021-06-14 13:18:33;ERROR;Company Role not added successfully
+2021-06-14 13:18:33;ERROR;Company Role not added successfully
+2021-06-14 13:18:33;ERROR;Company Role not added successfully
+2021-06-14 13:18:33;ERROR;Company Role not added successfully
+2021-06-14 13:18:33;INFO;
+
+2021-06-14 13:18:33;INFO;
+
+2021-06-14 13:18:33;INFO;
+
+2021-06-14 13:18:33;INFO;
+
+2021-06-14 13:18:33;INFO;
+
+2021-06-14 13:18:33;INFO;
+
+2021-06-14 13:18:33;INFO;
+
+2021-06-14 13:18:33;INFO;
+
+2021-06-14 13:18:33;INFO;
+
+2021-06-14 13:18:33;INFO;
+
+2021-06-14 13:18:33;INFO;====== WebDriver manager ======
+2021-06-14 13:18:33;INFO;====== WebDriver manager ======
+2021-06-14 13:18:33;INFO;====== WebDriver manager ======
+2021-06-14 13:18:33;INFO;====== WebDriver manager ======
+2021-06-14 13:18:33;INFO;====== WebDriver manager ======
+2021-06-14 13:18:33;INFO;====== WebDriver manager ======
+2021-06-14 13:18:33;INFO;====== WebDriver manager ======
+2021-06-14 13:18:33;INFO;====== WebDriver manager ======
+2021-06-14 13:18:33;INFO;====== WebDriver manager ======
+2021-06-14 13:18:33;INFO;====== WebDriver manager ======
+2021-06-14 13:18:33;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:18:33;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:18:33;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:18:33;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:18:33;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:18:33;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:18:33;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:18:33;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:18:33;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:18:33;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:18:33;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:18:33;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:18:33;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:18:33;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:18:33;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:18:33;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:18:33;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:18:33;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:18:33;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:18:33;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:18:34;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:18:34;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:18:34;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:18:34;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:18:34;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:18:34;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:18:34;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:18:34;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:18:34;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:18:34;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:19:20;INFO;Company is associated  with contact successfully
+2021-06-14 13:19:20;INFO;Company is associated  with contact successfully
+2021-06-14 13:19:20;INFO;Company is associated  with contact successfully
+2021-06-14 13:19:20;INFO;Company is associated  with contact successfully
+2021-06-14 13:19:20;INFO;Company is associated  with contact successfully
+2021-06-14 13:19:20;INFO;Company is associated  with contact successfully
+2021-06-14 13:19:20;INFO;Company is associated  with contact successfully
+2021-06-14 13:19:20;INFO;Company is associated  with contact successfully
+2021-06-14 13:19:20;INFO;Company is associated  with contact successfully
+2021-06-14 13:19:20;INFO;Company is associated  with contact successfully
+2021-06-14 13:19:22;INFO;Company is located in active position of contact successfully
+2021-06-14 13:19:22;INFO;Company is located in active position of contact successfully
+2021-06-14 13:19:22;INFO;Company is located in active position of contact successfully
+2021-06-14 13:19:22;INFO;Company is located in active position of contact successfully
+2021-06-14 13:19:22;INFO;Company is located in active position of contact successfully
+2021-06-14 13:19:22;INFO;Company is located in active position of contact successfully
+2021-06-14 13:19:22;INFO;Company is located in active position of contact successfully
+2021-06-14 13:19:22;INFO;Company is located in active position of contact successfully
+2021-06-14 13:19:22;INFO;Company is located in active position of contact successfully
+2021-06-14 13:19:22;INFO;Company is located in active position of contact successfully
+2021-06-14 13:19:22;INFO;
+
+2021-06-14 13:19:22;INFO;
+
+2021-06-14 13:19:22;INFO;
+
+2021-06-14 13:19:22;INFO;
+
+2021-06-14 13:19:22;INFO;
+
+2021-06-14 13:19:22;INFO;
+
+2021-06-14 13:19:22;INFO;
+
+2021-06-14 13:19:22;INFO;
+
+2021-06-14 13:19:22;INFO;
+
+2021-06-14 13:19:22;INFO;
+
+2021-06-14 13:19:22;INFO;====== WebDriver manager ======
+2021-06-14 13:19:22;INFO;====== WebDriver manager ======
+2021-06-14 13:19:22;INFO;====== WebDriver manager ======
+2021-06-14 13:19:22;INFO;====== WebDriver manager ======
+2021-06-14 13:19:22;INFO;====== WebDriver manager ======
+2021-06-14 13:19:22;INFO;====== WebDriver manager ======
+2021-06-14 13:19:22;INFO;====== WebDriver manager ======
+2021-06-14 13:19:22;INFO;====== WebDriver manager ======
+2021-06-14 13:19:22;INFO;====== WebDriver manager ======
+2021-06-14 13:19:22;INFO;====== WebDriver manager ======
+2021-06-14 13:19:22;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:19:22;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:19:22;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:19:22;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:19:22;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:19:22;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:19:22;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:19:22;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:19:22;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:19:22;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:19:22;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:19:22;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:19:22;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:19:22;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:19:22;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:19:22;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:19:22;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:19:22;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:19:22;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:19:22;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:19:24;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:19:24;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:19:24;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:19:24;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:19:24;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:19:24;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:19:24;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:19:24;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:19:24;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:19:24;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:20:14;INFO;Company Role added successfully
+2021-06-14 13:20:14;INFO;Company Role added successfully
+2021-06-14 13:20:14;INFO;Company Role added successfully
+2021-06-14 13:20:14;INFO;Company Role added successfully
+2021-06-14 13:20:14;INFO;Company Role added successfully
+2021-06-14 13:20:14;INFO;Company Role added successfully
+2021-06-14 13:20:14;INFO;Company Role added successfully
+2021-06-14 13:20:14;INFO;Company Role added successfully
+2021-06-14 13:20:14;INFO;Company Role added successfully
+2021-06-14 13:20:14;INFO;Company Role added successfully
+2021-06-14 13:20:28;INFO;Contact is associated with Project as role successfully
+2021-06-14 13:20:28;INFO;Contact is associated with Project as role successfully
+2021-06-14 13:20:28;INFO;Contact is associated with Project as role successfully
+2021-06-14 13:20:28;INFO;Contact is associated with Project as role successfully
+2021-06-14 13:20:28;INFO;Contact is associated with Project as role successfully
+2021-06-14 13:20:28;INFO;Contact is associated with Project as role successfully
+2021-06-14 13:20:28;INFO;Contact is associated with Project as role successfully
+2021-06-14 13:20:28;INFO;Contact is associated with Project as role successfully
+2021-06-14 13:20:28;INFO;Contact is associated with Project as role successfully
+2021-06-14 13:20:28;INFO;Contact is associated with Project as role successfully
+2021-06-14 13:20:28;INFO;
+
+2021-06-14 13:20:28;INFO;
+
+2021-06-14 13:20:28;INFO;
+
+2021-06-14 13:20:28;INFO;
+
+2021-06-14 13:20:28;INFO;
+
+2021-06-14 13:20:28;INFO;
+
+2021-06-14 13:20:28;INFO;
+
+2021-06-14 13:20:28;INFO;
+
+2021-06-14 13:20:28;INFO;
+
+2021-06-14 13:20:28;INFO;
+
+2021-06-14 13:20:28;INFO;====== WebDriver manager ======
+2021-06-14 13:20:28;INFO;====== WebDriver manager ======
+2021-06-14 13:20:28;INFO;====== WebDriver manager ======
+2021-06-14 13:20:28;INFO;====== WebDriver manager ======
+2021-06-14 13:20:28;INFO;====== WebDriver manager ======
+2021-06-14 13:20:28;INFO;====== WebDriver manager ======
+2021-06-14 13:20:28;INFO;====== WebDriver manager ======
+2021-06-14 13:20:28;INFO;====== WebDriver manager ======
+2021-06-14 13:20:28;INFO;====== WebDriver manager ======
+2021-06-14 13:20:28;INFO;====== WebDriver manager ======
+2021-06-14 13:20:29;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:20:29;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:20:29;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:20:29;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:20:29;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:20:29;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:20:29;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:20:29;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:20:29;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:20:29;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:20:29;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:20:29;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:20:29;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:20:29;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:20:29;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:20:29;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:20:29;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:20:29;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:20:29;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:20:29;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:20:30;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:20:30;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:20:30;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:20:30;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:20:30;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:20:30;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:20:30;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:20:30;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:20:30;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:20:30;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:21:11;INFO;Line item added successfully
+2021-06-14 13:21:11;INFO;Line item added successfully
+2021-06-14 13:21:11;INFO;Line item added successfully
+2021-06-14 13:21:11;INFO;Line item added successfully
+2021-06-14 13:21:11;INFO;Line item added successfully
+2021-06-14 13:21:11;INFO;Line item added successfully
+2021-06-14 13:21:11;INFO;Line item added successfully
+2021-06-14 13:21:11;INFO;Line item added successfully
+2021-06-14 13:21:11;INFO;Line item added successfully
+2021-06-14 13:21:11;INFO;Line item added successfully
+2021-06-14 13:21:11;INFO;
+
+2021-06-14 13:21:11;INFO;
+
+2021-06-14 13:21:11;INFO;
+
+2021-06-14 13:21:11;INFO;
+
+2021-06-14 13:21:11;INFO;
+
+2021-06-14 13:21:11;INFO;
+
+2021-06-14 13:21:11;INFO;
+
+2021-06-14 13:21:11;INFO;
+
+2021-06-14 13:21:11;INFO;
+
+2021-06-14 13:21:11;INFO;
+
+2021-06-14 13:21:11;INFO;====== WebDriver manager ======
+2021-06-14 13:21:11;INFO;====== WebDriver manager ======
+2021-06-14 13:21:11;INFO;====== WebDriver manager ======
+2021-06-14 13:21:11;INFO;====== WebDriver manager ======
+2021-06-14 13:21:11;INFO;====== WebDriver manager ======
+2021-06-14 13:21:11;INFO;====== WebDriver manager ======
+2021-06-14 13:21:11;INFO;====== WebDriver manager ======
+2021-06-14 13:21:11;INFO;====== WebDriver manager ======
+2021-06-14 13:21:11;INFO;====== WebDriver manager ======
+2021-06-14 13:21:11;INFO;====== WebDriver manager ======
+2021-06-14 13:21:11;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:21:11;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:21:11;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:21:11;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:21:11;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:21:11;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:21:11;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:21:11;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:21:11;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:21:11;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:21:11;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:21:11;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:21:11;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:21:11;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:21:11;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:21:11;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:21:11;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:21:11;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:21:11;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:21:11;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:21:12;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:21:12;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:21:12;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:21:12;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:21:12;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:21:12;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:21:12;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:21:12;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:21:12;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:21:12;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:23:00;INFO;Order added successfully
+2021-06-14 13:23:00;INFO;Order added successfully
+2021-06-14 13:23:00;INFO;Order added successfully
+2021-06-14 13:23:00;INFO;Order added successfully
+2021-06-14 13:23:00;INFO;Order added successfully
+2021-06-14 13:23:00;INFO;Order added successfully
+2021-06-14 13:23:00;INFO;Order added successfully
+2021-06-14 13:23:00;INFO;Order added successfully
+2021-06-14 13:23:00;INFO;Order added successfully
+2021-06-14 13:23:00;INFO;Order added successfully
+2021-06-14 13:23:01;INFO;
+
+2021-06-14 13:23:01;INFO;
+
+2021-06-14 13:23:01;INFO;
+
+2021-06-14 13:23:01;INFO;
+
+2021-06-14 13:23:01;INFO;
+
+2021-06-14 13:23:01;INFO;
+
+2021-06-14 13:23:01;INFO;
+
+2021-06-14 13:23:01;INFO;
+
+2021-06-14 13:23:01;INFO;
+
+2021-06-14 13:23:01;INFO;
+
+2021-06-14 13:23:01;INFO;====== WebDriver manager ======
+2021-06-14 13:23:01;INFO;====== WebDriver manager ======
+2021-06-14 13:23:01;INFO;====== WebDriver manager ======
+2021-06-14 13:23:01;INFO;====== WebDriver manager ======
+2021-06-14 13:23:01;INFO;====== WebDriver manager ======
+2021-06-14 13:23:01;INFO;====== WebDriver manager ======
+2021-06-14 13:23:01;INFO;====== WebDriver manager ======
+2021-06-14 13:23:01;INFO;====== WebDriver manager ======
+2021-06-14 13:23:01;INFO;====== WebDriver manager ======
+2021-06-14 13:23:01;INFO;====== WebDriver manager ======
+2021-06-14 13:23:01;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:23:01;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:23:01;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:23:01;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:23:01;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:23:01;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:23:01;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:23:01;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:23:01;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:23:01;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:23:01;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:23:01;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:23:01;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:23:01;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:23:01;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:23:01;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:23:01;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:23:01;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:23:01;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:23:01;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:23:02;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:23:02;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:23:02;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:23:02;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:23:02;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:23:02;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:23:02;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:23:02;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:23:02;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:23:02;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:24:15;ERROR;Project not added successfully
+2021-06-14 13:24:15;ERROR;Project not added successfully
+2021-06-14 13:24:15;ERROR;Project not added successfully
+2021-06-14 13:24:15;ERROR;Project not added successfully
+2021-06-14 13:24:15;ERROR;Project not added successfully
+2021-06-14 13:24:15;ERROR;Project not added successfully
+2021-06-14 13:24:15;ERROR;Project not added successfully
+2021-06-14 13:24:15;ERROR;Project not added successfully
+2021-06-14 13:24:15;ERROR;Project not added successfully
+2021-06-14 13:24:15;ERROR;Project not added successfully
+2021-06-14 13:24:17;INFO;
+
+2021-06-14 13:24:17;INFO;
+
+2021-06-14 13:24:17;INFO;
+
+2021-06-14 13:24:17;INFO;
+
+2021-06-14 13:24:17;INFO;
+
+2021-06-14 13:24:17;INFO;
+
+2021-06-14 13:24:17;INFO;
+
+2021-06-14 13:24:17;INFO;
+
+2021-06-14 13:24:17;INFO;
+
+2021-06-14 13:24:17;INFO;
+
+2021-06-14 13:24:17;INFO;====== WebDriver manager ======
+2021-06-14 13:24:17;INFO;====== WebDriver manager ======
+2021-06-14 13:24:17;INFO;====== WebDriver manager ======
+2021-06-14 13:24:17;INFO;====== WebDriver manager ======
+2021-06-14 13:24:17;INFO;====== WebDriver manager ======
+2021-06-14 13:24:17;INFO;====== WebDriver manager ======
+2021-06-14 13:24:17;INFO;====== WebDriver manager ======
+2021-06-14 13:24:17;INFO;====== WebDriver manager ======
+2021-06-14 13:24:17;INFO;====== WebDriver manager ======
+2021-06-14 13:24:17;INFO;====== WebDriver manager ======
+2021-06-14 13:24:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:24:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:24:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:24:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:24:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:24:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:24:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:24:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:24:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:24:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:24:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:24:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:24:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:24:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:24:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:24:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:24:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:24:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:24:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:24:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:24:18;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:24:18;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:24:18;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:24:18;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:24:18;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:24:18;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:24:18;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:24:18;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:24:18;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:24:18;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:25:11;INFO;
+
+2021-06-14 13:25:11;INFO;
+
+2021-06-14 13:25:11;INFO;
+
+2021-06-14 13:25:11;INFO;
+
+2021-06-14 13:25:11;INFO;
+
+2021-06-14 13:25:11;INFO;
+
+2021-06-14 13:25:11;INFO;
+
+2021-06-14 13:25:11;INFO;
+
+2021-06-14 13:25:11;INFO;
+
+2021-06-14 13:25:11;INFO;
+
+2021-06-14 13:25:11;INFO;====== WebDriver manager ======
+2021-06-14 13:25:11;INFO;====== WebDriver manager ======
+2021-06-14 13:25:11;INFO;====== WebDriver manager ======
+2021-06-14 13:25:11;INFO;====== WebDriver manager ======
+2021-06-14 13:25:11;INFO;====== WebDriver manager ======
+2021-06-14 13:25:11;INFO;====== WebDriver manager ======
+2021-06-14 13:25:11;INFO;====== WebDriver manager ======
+2021-06-14 13:25:11;INFO;====== WebDriver manager ======
+2021-06-14 13:25:11;INFO;====== WebDriver manager ======
+2021-06-14 13:25:11;INFO;====== WebDriver manager ======
+2021-06-14 13:25:11;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:25:11;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:25:11;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:25:11;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:25:11;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:25:11;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:25:11;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:25:11;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:25:11;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:25:11;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:25:11;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:25:11;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:25:11;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:25:11;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:25:11;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:25:11;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:25:11;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:25:11;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:25:11;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:25:11;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:25:13;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:25:13;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:25:13;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:25:13;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:25:13;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:25:13;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:25:13;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:25:13;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:25:13;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:25:13;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:26:01;INFO;Deliverable added successfully
+2021-06-14 13:26:01;INFO;Deliverable added successfully
+2021-06-14 13:26:01;INFO;Deliverable added successfully
+2021-06-14 13:26:01;INFO;Deliverable added successfully
+2021-06-14 13:26:01;INFO;Deliverable added successfully
+2021-06-14 13:26:01;INFO;Deliverable added successfully
+2021-06-14 13:26:01;INFO;Deliverable added successfully
+2021-06-14 13:26:01;INFO;Deliverable added successfully
+2021-06-14 13:26:01;INFO;Deliverable added successfully
+2021-06-14 13:26:01;INFO;Deliverable added successfully
+2021-06-14 13:28:53;INFO;
+
+2021-06-14 13:28:53;INFO;====== WebDriver manager ======
+2021-06-14 13:28:53;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:28:53;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:28:54;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:29:54;ERROR;Project not added successfully
+2021-06-14 13:32:29;INFO;
+
+2021-06-14 13:32:29;INFO;====== WebDriver manager ======
+2021-06-14 13:32:29;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:32:29;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:32:31;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:33:29;INFO;Project added successfully
+2021-06-14 13:36:01;INFO;
+
+2021-06-14 13:36:01;INFO;====== WebDriver manager ======
+2021-06-14 13:36:01;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 13:36:01;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 13:36:02;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 13:36:58;INFO;Project added successfully
+2021-06-14 14:14:49;INFO;
+
+2021-06-14 14:14:49;INFO;====== WebDriver manager ======
+2021-06-14 14:14:49;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 14:14:49;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 14:14:50;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 14:18:19;INFO;
+
+2021-06-14 14:18:19;INFO;====== WebDriver manager ======
+2021-06-14 14:18:19;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 14:18:19;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 14:18:20;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 14:22:13;INFO;
+
+2021-06-14 14:22:13;INFO;====== WebDriver manager ======
+2021-06-14 14:22:13;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 14:22:13;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 14:22:15;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 14:25:14;INFO;
+
+2021-06-14 14:25:14;INFO;====== WebDriver manager ======
+2021-06-14 14:25:14;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 14:25:14;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 14:25:15;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 14:26:42;ERROR;Project not added successfully
+2021-06-14 14:29:46;INFO;
+
+2021-06-14 14:29:46;INFO;====== WebDriver manager ======
+2021-06-14 14:29:46;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 14:29:46;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 14:29:47;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 14:32:15;INFO;
+
+2021-06-14 14:32:15;INFO;====== WebDriver manager ======
+2021-06-14 14:32:15;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 14:32:15;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 14:32:16;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 14:36:42;INFO;
+
+2021-06-14 14:36:42;INFO;====== WebDriver manager ======
+2021-06-14 14:36:42;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 14:36:42;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 14:36:43;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 14:38:29;INFO;Project added successfully
+2021-06-14 18:48:17;INFO;
+
+2021-06-14 18:48:17;INFO;
+
+2021-06-14 18:48:17;INFO;
+
+2021-06-14 18:48:17;INFO;
+
+2021-06-14 18:48:17;INFO;
+
+2021-06-14 18:48:17;INFO;
+
+2021-06-14 18:48:17;INFO;
+
+2021-06-14 18:48:17;INFO;
+
+2021-06-14 18:48:17;INFO;
+
+2021-06-14 18:48:17;INFO;
+
+2021-06-14 18:48:17;INFO;====== WebDriver manager ======
+2021-06-14 18:48:17;INFO;====== WebDriver manager ======
+2021-06-14 18:48:17;INFO;====== WebDriver manager ======
+2021-06-14 18:48:17;INFO;====== WebDriver manager ======
+2021-06-14 18:48:17;INFO;====== WebDriver manager ======
+2021-06-14 18:48:17;INFO;====== WebDriver manager ======
+2021-06-14 18:48:17;INFO;====== WebDriver manager ======
+2021-06-14 18:48:17;INFO;====== WebDriver manager ======
+2021-06-14 18:48:17;INFO;====== WebDriver manager ======
+2021-06-14 18:48:17;INFO;====== WebDriver manager ======
+2021-06-14 18:48:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:48:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:48:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:48:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:48:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:48:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:48:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:48:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:48:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:48:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:48:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:48:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:48:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:48:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:48:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:48:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:48:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:48:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:48:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:48:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:48:19;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:48:19;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:48:19;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:48:19;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:48:19;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:48:19;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:48:19;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:48:19;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:48:19;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:48:19;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:49:07;INFO;
+
+2021-06-14 18:49:07;INFO;
+
+2021-06-14 18:49:07;INFO;
+
+2021-06-14 18:49:07;INFO;
+
+2021-06-14 18:49:07;INFO;
+
+2021-06-14 18:49:07;INFO;
+
+2021-06-14 18:49:07;INFO;
+
+2021-06-14 18:49:07;INFO;
+
+2021-06-14 18:49:07;INFO;
+
+2021-06-14 18:49:07;INFO;
+
+2021-06-14 18:49:07;INFO;====== WebDriver manager ======
+2021-06-14 18:49:07;INFO;====== WebDriver manager ======
+2021-06-14 18:49:07;INFO;====== WebDriver manager ======
+2021-06-14 18:49:07;INFO;====== WebDriver manager ======
+2021-06-14 18:49:07;INFO;====== WebDriver manager ======
+2021-06-14 18:49:07;INFO;====== WebDriver manager ======
+2021-06-14 18:49:07;INFO;====== WebDriver manager ======
+2021-06-14 18:49:07;INFO;====== WebDriver manager ======
+2021-06-14 18:49:07;INFO;====== WebDriver manager ======
+2021-06-14 18:49:07;INFO;====== WebDriver manager ======
+2021-06-14 18:49:07;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:49:07;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:49:07;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:49:07;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:49:07;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:49:07;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:49:07;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:49:07;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:49:07;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:49:07;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:49:07;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:49:07;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:49:07;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:49:07;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:49:07;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:49:07;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:49:07;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:49:07;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:49:07;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:49:07;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:49:08;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:49:08;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:49:08;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:49:08;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:49:08;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:49:08;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:49:08;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:49:08;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:49:08;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:49:08;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:50:17;INFO;
+
+2021-06-14 18:50:17;INFO;
+
+2021-06-14 18:50:17;INFO;
+
+2021-06-14 18:50:17;INFO;
+
+2021-06-14 18:50:17;INFO;
+
+2021-06-14 18:50:17;INFO;
+
+2021-06-14 18:50:17;INFO;
+
+2021-06-14 18:50:17;INFO;
+
+2021-06-14 18:50:17;INFO;
+
+2021-06-14 18:50:17;INFO;
+
+2021-06-14 18:50:17;INFO;====== WebDriver manager ======
+2021-06-14 18:50:17;INFO;====== WebDriver manager ======
+2021-06-14 18:50:17;INFO;====== WebDriver manager ======
+2021-06-14 18:50:17;INFO;====== WebDriver manager ======
+2021-06-14 18:50:17;INFO;====== WebDriver manager ======
+2021-06-14 18:50:17;INFO;====== WebDriver manager ======
+2021-06-14 18:50:17;INFO;====== WebDriver manager ======
+2021-06-14 18:50:17;INFO;====== WebDriver manager ======
+2021-06-14 18:50:17;INFO;====== WebDriver manager ======
+2021-06-14 18:50:17;INFO;====== WebDriver manager ======
+2021-06-14 18:50:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:50:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:50:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:50:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:50:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:50:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:50:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:50:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:50:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:50:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:50:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:50:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:50:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:50:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:50:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:50:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:50:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:50:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:50:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:50:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:50:18;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:50:18;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:50:18;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:50:18;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:50:18;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:50:18;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:50:18;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:50:18;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:50:18;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:50:18;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:50:55;INFO;
+
+2021-06-14 18:50:55;INFO;
+
+2021-06-14 18:50:55;INFO;
+
+2021-06-14 18:50:55;INFO;
+
+2021-06-14 18:50:55;INFO;
+
+2021-06-14 18:50:55;INFO;
+
+2021-06-14 18:50:55;INFO;
+
+2021-06-14 18:50:55;INFO;
+
+2021-06-14 18:50:55;INFO;
+
+2021-06-14 18:50:55;INFO;
+
+2021-06-14 18:50:55;INFO;====== WebDriver manager ======
+2021-06-14 18:50:55;INFO;====== WebDriver manager ======
+2021-06-14 18:50:55;INFO;====== WebDriver manager ======
+2021-06-14 18:50:55;INFO;====== WebDriver manager ======
+2021-06-14 18:50:55;INFO;====== WebDriver manager ======
+2021-06-14 18:50:55;INFO;====== WebDriver manager ======
+2021-06-14 18:50:55;INFO;====== WebDriver manager ======
+2021-06-14 18:50:55;INFO;====== WebDriver manager ======
+2021-06-14 18:50:55;INFO;====== WebDriver manager ======
+2021-06-14 18:50:55;INFO;====== WebDriver manager ======
+2021-06-14 18:50:55;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:50:55;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:50:55;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:50:55;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:50:55;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:50:55;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:50:55;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:50:55;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:50:55;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:50:55;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:50:55;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:50:55;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:50:55;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:50:55;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:50:55;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:50:55;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:50:55;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:50:55;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:50:55;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:50:55;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:50:56;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:50:56;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:50:56;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:50:56;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:50:56;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:50:56;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:50:56;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:50:56;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:50:56;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:50:56;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:51:37;ERROR;Company not added successfully
+2021-06-14 18:51:37;ERROR;Company not added successfully
+2021-06-14 18:51:37;ERROR;Company not added successfully
+2021-06-14 18:51:37;ERROR;Company not added successfully
+2021-06-14 18:51:37;ERROR;Company not added successfully
+2021-06-14 18:51:37;ERROR;Company not added successfully
+2021-06-14 18:51:37;ERROR;Company not added successfully
+2021-06-14 18:51:37;ERROR;Company not added successfully
+2021-06-14 18:51:37;ERROR;Company not added successfully
+2021-06-14 18:51:37;ERROR;Company not added successfully
+2021-06-14 18:51:37;INFO;
+
+2021-06-14 18:51:37;INFO;
+
+2021-06-14 18:51:37;INFO;
+
+2021-06-14 18:51:37;INFO;
+
+2021-06-14 18:51:37;INFO;
+
+2021-06-14 18:51:37;INFO;
+
+2021-06-14 18:51:37;INFO;
+
+2021-06-14 18:51:37;INFO;
+
+2021-06-14 18:51:37;INFO;
+
+2021-06-14 18:51:37;INFO;
+
+2021-06-14 18:51:37;INFO;====== WebDriver manager ======
+2021-06-14 18:51:37;INFO;====== WebDriver manager ======
+2021-06-14 18:51:37;INFO;====== WebDriver manager ======
+2021-06-14 18:51:37;INFO;====== WebDriver manager ======
+2021-06-14 18:51:37;INFO;====== WebDriver manager ======
+2021-06-14 18:51:37;INFO;====== WebDriver manager ======
+2021-06-14 18:51:37;INFO;====== WebDriver manager ======
+2021-06-14 18:51:37;INFO;====== WebDriver manager ======
+2021-06-14 18:51:37;INFO;====== WebDriver manager ======
+2021-06-14 18:51:37;INFO;====== WebDriver manager ======
+2021-06-14 18:51:37;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:51:37;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:51:37;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:51:37;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:51:37;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:51:37;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:51:37;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:51:37;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:51:37;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:51:37;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:51:37;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:51:37;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:51:37;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:51:37;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:51:37;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:51:37;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:51:37;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:51:37;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:51:37;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:51:37;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:51:38;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:51:38;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:51:38;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:51:38;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:51:38;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:51:38;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:51:38;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:51:38;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:51:38;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:51:38;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:52:53;INFO;Contact added successfully inside company
+2021-06-14 18:52:53;INFO;Contact added successfully inside company
+2021-06-14 18:52:53;INFO;Contact added successfully inside company
+2021-06-14 18:52:53;INFO;Contact added successfully inside company
+2021-06-14 18:52:53;INFO;Contact added successfully inside company
+2021-06-14 18:52:53;INFO;Contact added successfully inside company
+2021-06-14 18:52:53;INFO;Contact added successfully inside company
+2021-06-14 18:52:53;INFO;Contact added successfully inside company
+2021-06-14 18:52:53;INFO;Contact added successfully inside company
+2021-06-14 18:52:53;INFO;Contact added successfully inside company
+2021-06-14 18:52:54;INFO;
+
+2021-06-14 18:52:54;INFO;
+
+2021-06-14 18:52:54;INFO;
+
+2021-06-14 18:52:54;INFO;
+
+2021-06-14 18:52:54;INFO;
+
+2021-06-14 18:52:54;INFO;
+
+2021-06-14 18:52:54;INFO;
+
+2021-06-14 18:52:54;INFO;
+
+2021-06-14 18:52:54;INFO;
+
+2021-06-14 18:52:54;INFO;
+
+2021-06-14 18:52:54;INFO;====== WebDriver manager ======
+2021-06-14 18:52:54;INFO;====== WebDriver manager ======
+2021-06-14 18:52:54;INFO;====== WebDriver manager ======
+2021-06-14 18:52:54;INFO;====== WebDriver manager ======
+2021-06-14 18:52:54;INFO;====== WebDriver manager ======
+2021-06-14 18:52:54;INFO;====== WebDriver manager ======
+2021-06-14 18:52:54;INFO;====== WebDriver manager ======
+2021-06-14 18:52:54;INFO;====== WebDriver manager ======
+2021-06-14 18:52:54;INFO;====== WebDriver manager ======
+2021-06-14 18:52:54;INFO;====== WebDriver manager ======
+2021-06-14 18:52:54;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:52:54;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:52:54;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:52:54;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:52:54;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:52:54;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:52:54;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:52:54;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:52:54;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:52:54;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:52:54;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:52:54;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:52:54;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:52:54;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:52:54;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:52:54;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:52:54;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:52:54;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:52:54;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:52:54;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:52:55;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:52:55;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:52:55;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:52:55;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:52:55;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:52:55;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:52:55;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:52:55;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:52:55;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:52:55;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:54:00;INFO;
+
+2021-06-14 18:54:00;INFO;
+
+2021-06-14 18:54:00;INFO;
+
+2021-06-14 18:54:00;INFO;
+
+2021-06-14 18:54:00;INFO;
+
+2021-06-14 18:54:00;INFO;
+
+2021-06-14 18:54:00;INFO;
+
+2021-06-14 18:54:00;INFO;
+
+2021-06-14 18:54:00;INFO;
+
+2021-06-14 18:54:00;INFO;
+
+2021-06-14 18:54:00;INFO;====== WebDriver manager ======
+2021-06-14 18:54:00;INFO;====== WebDriver manager ======
+2021-06-14 18:54:00;INFO;====== WebDriver manager ======
+2021-06-14 18:54:00;INFO;====== WebDriver manager ======
+2021-06-14 18:54:00;INFO;====== WebDriver manager ======
+2021-06-14 18:54:00;INFO;====== WebDriver manager ======
+2021-06-14 18:54:00;INFO;====== WebDriver manager ======
+2021-06-14 18:54:00;INFO;====== WebDriver manager ======
+2021-06-14 18:54:00;INFO;====== WebDriver manager ======
+2021-06-14 18:54:00;INFO;====== WebDriver manager ======
+2021-06-14 18:54:00;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:54:00;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:54:00;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:54:00;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:54:00;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:54:00;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:54:00;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:54:00;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:54:00;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:54:00;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:54:00;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:54:00;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:54:00;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:54:00;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:54:00;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:54:00;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:54:00;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:54:00;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:54:00;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:54:00;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:54:01;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:54:01;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:54:01;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:54:01;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:54:01;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:54:01;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:54:01;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:54:01;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:54:01;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:54:01;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:55:50;INFO;Contact added successfully
+2021-06-14 18:55:50;INFO;Contact added successfully
+2021-06-14 18:55:50;INFO;Contact added successfully
+2021-06-14 18:55:50;INFO;Contact added successfully
+2021-06-14 18:55:50;INFO;Contact added successfully
+2021-06-14 18:55:50;INFO;Contact added successfully
+2021-06-14 18:55:50;INFO;Contact added successfully
+2021-06-14 18:55:50;INFO;Contact added successfully
+2021-06-14 18:55:50;INFO;Contact added successfully
+2021-06-14 18:55:50;INFO;Contact added successfully
+2021-06-14 18:55:50;INFO;
+
+2021-06-14 18:55:50;INFO;
+
+2021-06-14 18:55:50;INFO;
+
+2021-06-14 18:55:50;INFO;
+
+2021-06-14 18:55:50;INFO;
+
+2021-06-14 18:55:50;INFO;
+
+2021-06-14 18:55:50;INFO;
+
+2021-06-14 18:55:50;INFO;
+
+2021-06-14 18:55:50;INFO;
+
+2021-06-14 18:55:50;INFO;
+
+2021-06-14 18:55:50;INFO;====== WebDriver manager ======
+2021-06-14 18:55:50;INFO;====== WebDriver manager ======
+2021-06-14 18:55:50;INFO;====== WebDriver manager ======
+2021-06-14 18:55:50;INFO;====== WebDriver manager ======
+2021-06-14 18:55:50;INFO;====== WebDriver manager ======
+2021-06-14 18:55:50;INFO;====== WebDriver manager ======
+2021-06-14 18:55:50;INFO;====== WebDriver manager ======
+2021-06-14 18:55:50;INFO;====== WebDriver manager ======
+2021-06-14 18:55:50;INFO;====== WebDriver manager ======
+2021-06-14 18:55:50;INFO;====== WebDriver manager ======
+2021-06-14 18:55:51;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:55:51;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:55:51;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:55:51;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:55:51;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:55:51;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:55:51;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:55:51;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:55:51;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:55:51;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:55:51;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:55:51;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:55:51;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:55:51;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:55:51;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:55:51;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:55:51;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:55:51;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:55:51;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:55:51;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:55:52;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:55:52;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:55:52;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:55:52;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:55:52;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:55:52;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:55:52;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:55:52;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:55:52;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:55:52;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:57:18;INFO;
+
+2021-06-14 18:57:18;INFO;
+
+2021-06-14 18:57:18;INFO;
+
+2021-06-14 18:57:18;INFO;
+
+2021-06-14 18:57:18;INFO;
+
+2021-06-14 18:57:18;INFO;
+
+2021-06-14 18:57:18;INFO;
+
+2021-06-14 18:57:18;INFO;
+
+2021-06-14 18:57:18;INFO;
+
+2021-06-14 18:57:18;INFO;
+
+2021-06-14 18:57:18;INFO;====== WebDriver manager ======
+2021-06-14 18:57:18;INFO;====== WebDriver manager ======
+2021-06-14 18:57:18;INFO;====== WebDriver manager ======
+2021-06-14 18:57:18;INFO;====== WebDriver manager ======
+2021-06-14 18:57:18;INFO;====== WebDriver manager ======
+2021-06-14 18:57:18;INFO;====== WebDriver manager ======
+2021-06-14 18:57:18;INFO;====== WebDriver manager ======
+2021-06-14 18:57:18;INFO;====== WebDriver manager ======
+2021-06-14 18:57:18;INFO;====== WebDriver manager ======
+2021-06-14 18:57:18;INFO;====== WebDriver manager ======
+2021-06-14 18:57:18;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:57:18;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:57:18;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:57:18;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:57:18;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:57:18;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:57:18;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:57:18;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:57:18;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:57:18;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:57:18;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:57:18;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:57:18;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:57:18;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:57:18;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:57:18;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:57:18;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:57:18;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:57:18;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:57:18;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:57:20;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:57:20;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:57:20;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:57:20;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:57:20;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:57:20;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:57:20;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:57:20;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:57:20;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:57:20;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:58:21;INFO;
+
+2021-06-14 18:58:21;INFO;
+
+2021-06-14 18:58:21;INFO;
+
+2021-06-14 18:58:21;INFO;
+
+2021-06-14 18:58:21;INFO;
+
+2021-06-14 18:58:21;INFO;
+
+2021-06-14 18:58:21;INFO;
+
+2021-06-14 18:58:21;INFO;
+
+2021-06-14 18:58:21;INFO;
+
+2021-06-14 18:58:21;INFO;
+
+2021-06-14 18:58:21;INFO;====== WebDriver manager ======
+2021-06-14 18:58:21;INFO;====== WebDriver manager ======
+2021-06-14 18:58:21;INFO;====== WebDriver manager ======
+2021-06-14 18:58:21;INFO;====== WebDriver manager ======
+2021-06-14 18:58:21;INFO;====== WebDriver manager ======
+2021-06-14 18:58:21;INFO;====== WebDriver manager ======
+2021-06-14 18:58:21;INFO;====== WebDriver manager ======
+2021-06-14 18:58:21;INFO;====== WebDriver manager ======
+2021-06-14 18:58:21;INFO;====== WebDriver manager ======
+2021-06-14 18:58:21;INFO;====== WebDriver manager ======
+2021-06-14 18:58:21;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:58:21;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:58:21;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:58:21;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:58:21;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:58:21;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:58:21;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:58:21;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:58:21;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:58:21;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 18:58:21;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:58:21;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:58:21;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:58:21;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:58:21;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:58:21;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:58:21;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:58:21;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:58:21;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:58:21;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 18:58:22;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:58:22;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:58:22;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:58:22;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:58:22;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:58:22;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:58:22;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:58:22;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:58:22;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 18:58:22;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:01:38;INFO;Line item added successfully
+2021-06-14 19:01:38;INFO;Line item added successfully
+2021-06-14 19:01:38;INFO;Line item added successfully
+2021-06-14 19:01:38;INFO;Line item added successfully
+2021-06-14 19:01:38;INFO;Line item added successfully
+2021-06-14 19:01:38;INFO;Line item added successfully
+2021-06-14 19:01:38;INFO;Line item added successfully
+2021-06-14 19:01:38;INFO;Line item added successfully
+2021-06-14 19:01:38;INFO;Line item added successfully
+2021-06-14 19:01:38;INFO;Line item added successfully
+2021-06-14 19:01:38;INFO;
+
+2021-06-14 19:01:38;INFO;
+
+2021-06-14 19:01:38;INFO;
+
+2021-06-14 19:01:38;INFO;
+
+2021-06-14 19:01:38;INFO;
+
+2021-06-14 19:01:38;INFO;
+
+2021-06-14 19:01:38;INFO;
+
+2021-06-14 19:01:38;INFO;
+
+2021-06-14 19:01:38;INFO;
+
+2021-06-14 19:01:38;INFO;
+
+2021-06-14 19:01:38;INFO;====== WebDriver manager ======
+2021-06-14 19:01:38;INFO;====== WebDriver manager ======
+2021-06-14 19:01:38;INFO;====== WebDriver manager ======
+2021-06-14 19:01:38;INFO;====== WebDriver manager ======
+2021-06-14 19:01:38;INFO;====== WebDriver manager ======
+2021-06-14 19:01:38;INFO;====== WebDriver manager ======
+2021-06-14 19:01:38;INFO;====== WebDriver manager ======
+2021-06-14 19:01:38;INFO;====== WebDriver manager ======
+2021-06-14 19:01:38;INFO;====== WebDriver manager ======
+2021-06-14 19:01:38;INFO;====== WebDriver manager ======
+2021-06-14 19:01:38;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:01:38;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:01:38;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:01:38;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:01:38;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:01:38;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:01:38;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:01:38;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:01:38;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:01:38;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:01:38;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:01:38;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:01:38;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:01:38;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:01:38;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:01:38;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:01:38;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:01:38;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:01:38;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:01:38;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:01:40;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:01:40;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:01:40;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:01:40;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:01:40;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:01:40;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:01:40;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:01:40;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:01:40;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:01:40;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:04:08;INFO;
+
+2021-06-14 19:04:08;INFO;
+
+2021-06-14 19:04:08;INFO;
+
+2021-06-14 19:04:08;INFO;
+
+2021-06-14 19:04:08;INFO;
+
+2021-06-14 19:04:08;INFO;
+
+2021-06-14 19:04:08;INFO;
+
+2021-06-14 19:04:08;INFO;
+
+2021-06-14 19:04:08;INFO;
+
+2021-06-14 19:04:08;INFO;
+
+2021-06-14 19:04:08;INFO;====== WebDriver manager ======
+2021-06-14 19:04:08;INFO;====== WebDriver manager ======
+2021-06-14 19:04:08;INFO;====== WebDriver manager ======
+2021-06-14 19:04:08;INFO;====== WebDriver manager ======
+2021-06-14 19:04:08;INFO;====== WebDriver manager ======
+2021-06-14 19:04:08;INFO;====== WebDriver manager ======
+2021-06-14 19:04:08;INFO;====== WebDriver manager ======
+2021-06-14 19:04:08;INFO;====== WebDriver manager ======
+2021-06-14 19:04:08;INFO;====== WebDriver manager ======
+2021-06-14 19:04:08;INFO;====== WebDriver manager ======
+2021-06-14 19:04:08;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:04:08;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:04:08;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:04:08;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:04:08;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:04:08;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:04:08;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:04:08;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:04:08;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:04:08;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:04:08;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:04:08;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:04:08;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:04:08;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:04:08;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:04:08;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:04:08;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:04:08;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:04:08;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:04:08;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:04:09;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:04:09;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:04:09;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:04:09;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:04:09;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:04:09;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:04:09;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:04:09;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:04:09;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:04:09;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:05:36;INFO;Project added successfully
+2021-06-14 19:05:36;INFO;Project added successfully
+2021-06-14 19:05:36;INFO;Project added successfully
+2021-06-14 19:05:36;INFO;Project added successfully
+2021-06-14 19:05:36;INFO;Project added successfully
+2021-06-14 19:05:36;INFO;Project added successfully
+2021-06-14 19:05:36;INFO;Project added successfully
+2021-06-14 19:05:36;INFO;Project added successfully
+2021-06-14 19:05:36;INFO;Project added successfully
+2021-06-14 19:05:36;INFO;Project added successfully
+2021-06-14 19:06:31;INFO;
+
+2021-06-14 19:06:31;INFO;
+
+2021-06-14 19:06:31;INFO;
+
+2021-06-14 19:06:31;INFO;
+
+2021-06-14 19:06:31;INFO;
+
+2021-06-14 19:06:31;INFO;
+
+2021-06-14 19:06:31;INFO;
+
+2021-06-14 19:06:31;INFO;
+
+2021-06-14 19:06:31;INFO;
+
+2021-06-14 19:06:31;INFO;
+
+2021-06-14 19:06:31;INFO;====== WebDriver manager ======
+2021-06-14 19:06:31;INFO;====== WebDriver manager ======
+2021-06-14 19:06:31;INFO;====== WebDriver manager ======
+2021-06-14 19:06:31;INFO;====== WebDriver manager ======
+2021-06-14 19:06:31;INFO;====== WebDriver manager ======
+2021-06-14 19:06:31;INFO;====== WebDriver manager ======
+2021-06-14 19:06:31;INFO;====== WebDriver manager ======
+2021-06-14 19:06:31;INFO;====== WebDriver manager ======
+2021-06-14 19:06:31;INFO;====== WebDriver manager ======
+2021-06-14 19:06:31;INFO;====== WebDriver manager ======
+2021-06-14 19:06:31;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:06:31;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:06:31;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:06:31;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:06:31;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:06:31;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:06:31;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:06:31;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:06:31;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:06:31;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:06:31;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:06:31;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:06:31;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:06:31;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:06:31;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:06:31;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:06:31;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:06:31;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:06:31;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:06:31;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:06:32;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:06:32;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:06:32;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:06:32;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:06:32;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:06:32;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:06:32;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:06:32;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:06:32;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:06:32;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:07:33;INFO;Project Source added successfully
+2021-06-14 19:07:33;INFO;Project Source added successfully
+2021-06-14 19:07:33;INFO;Project Source added successfully
+2021-06-14 19:07:33;INFO;Project Source added successfully
+2021-06-14 19:07:33;INFO;Project Source added successfully
+2021-06-14 19:07:33;INFO;Project Source added successfully
+2021-06-14 19:07:33;INFO;Project Source added successfully
+2021-06-14 19:07:33;INFO;Project Source added successfully
+2021-06-14 19:07:33;INFO;Project Source added successfully
+2021-06-14 19:07:33;INFO;Project Source added successfully
+2021-06-14 19:07:33;INFO;
+
+2021-06-14 19:07:33;INFO;
+
+2021-06-14 19:07:33;INFO;
+
+2021-06-14 19:07:33;INFO;
+
+2021-06-14 19:07:33;INFO;
+
+2021-06-14 19:07:33;INFO;
+
+2021-06-14 19:07:33;INFO;
+
+2021-06-14 19:07:33;INFO;
+
+2021-06-14 19:07:33;INFO;
+
+2021-06-14 19:07:33;INFO;
+
+2021-06-14 19:07:33;INFO;====== WebDriver manager ======
+2021-06-14 19:07:33;INFO;====== WebDriver manager ======
+2021-06-14 19:07:33;INFO;====== WebDriver manager ======
+2021-06-14 19:07:33;INFO;====== WebDriver manager ======
+2021-06-14 19:07:33;INFO;====== WebDriver manager ======
+2021-06-14 19:07:33;INFO;====== WebDriver manager ======
+2021-06-14 19:07:33;INFO;====== WebDriver manager ======
+2021-06-14 19:07:33;INFO;====== WebDriver manager ======
+2021-06-14 19:07:33;INFO;====== WebDriver manager ======
+2021-06-14 19:07:33;INFO;====== WebDriver manager ======
+2021-06-14 19:07:33;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:07:33;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:07:33;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:07:33;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:07:33;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:07:33;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:07:33;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:07:33;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:07:33;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:07:33;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:07:33;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:07:33;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:07:33;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:07:33;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:07:33;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:07:33;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:07:33;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:07:33;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:07:33;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:07:33;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:07:35;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:07:35;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:07:35;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:07:35;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:07:35;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:07:35;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:07:35;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:07:35;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:07:35;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:07:35;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:08:18;INFO;Deliverable added successfully
+2021-06-14 19:08:18;INFO;Deliverable added successfully
+2021-06-14 19:08:18;INFO;Deliverable added successfully
+2021-06-14 19:08:18;INFO;Deliverable added successfully
+2021-06-14 19:08:18;INFO;Deliverable added successfully
+2021-06-14 19:08:18;INFO;Deliverable added successfully
+2021-06-14 19:08:18;INFO;Deliverable added successfully
+2021-06-14 19:08:18;INFO;Deliverable added successfully
+2021-06-14 19:08:18;INFO;Deliverable added successfully
+2021-06-14 19:08:18;INFO;Deliverable added successfully
+2021-06-14 19:14:55;INFO;
+
+2021-06-14 19:14:55;INFO;====== WebDriver manager ======
+2021-06-14 19:14:55;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:14:55;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:14:56;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:15:42;INFO;Company added successfully
+2021-06-14 19:15:55;INFO;Company has been deleted successfully
+2021-06-14 19:15:56;INFO;
+
+2021-06-14 19:15:56;INFO;====== WebDriver manager ======
+2021-06-14 19:15:56;INFO;Current google-chrome version is 91.0.4472
+2021-06-14 19:15:56;INFO;Get LATEST driver version for 91.0.4472
+2021-06-14 19:15:57;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-14 19:16:46;INFO;Contact added successfully inside company
+2021-06-15 09:56:57;INFO;
+
+2021-06-15 09:56:57;INFO;====== WebDriver manager ======
+2021-06-15 09:56:57;INFO;Current google-chrome version is 91.0.4472
+2021-06-15 09:56:57;INFO;Get LATEST driver version for 91.0.4472
+2021-06-15 09:56:59;INFO;Get LATEST driver version for 91.0.4472
+2021-06-15 09:57:00;INFO;Trying to download new driver from https://chromedriver.storage.googleapis.com/91.0.4472.101/chromedriver_win32.zip
+2021-06-15 09:57:05;INFO;Driver has been saved in cache [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101]
+2021-06-15 09:58:41;INFO;
+
+2021-06-15 09:58:41;INFO;====== WebDriver manager ======
+2021-06-15 09:58:41;INFO;Current google-chrome version is 91.0.4472
+2021-06-15 09:58:41;INFO;Get LATEST driver version for 91.0.4472
+2021-06-15 09:58:42;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-15 10:01:47;INFO;
+
+2021-06-15 10:01:47;INFO;====== WebDriver manager ======
+2021-06-15 10:01:47;INFO;Current google-chrome version is 91.0.4472
+2021-06-15 10:01:47;INFO;Get LATEST driver version for 91.0.4472
+2021-06-15 10:01:48;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-15 10:03:08;INFO;Project added successfully
+2021-06-15 10:09:58;INFO;
+
+2021-06-15 10:09:58;INFO;====== WebDriver manager ======
+2021-06-15 10:09:58;INFO;Current google-chrome version is 91.0.4472
+2021-06-15 10:09:58;INFO;Get LATEST driver version for 91.0.4472
+2021-06-15 10:09:59;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-15 10:14:09;INFO;Project added successfully
+2021-06-15 10:20:22;INFO;
+
+2021-06-15 10:20:22;INFO;====== WebDriver manager ======
+2021-06-15 10:20:22;INFO;Current google-chrome version is 91.0.4472
+2021-06-15 10:20:22;INFO;Get LATEST driver version for 91.0.4472
+2021-06-15 10:20:24;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-15 10:21:41;INFO;Project added successfully
+2021-06-15 10:31:30;INFO;
+
+2021-06-15 10:31:30;INFO;====== WebDriver manager ======
+2021-06-15 10:31:30;INFO;Current google-chrome version is 91.0.4472
+2021-06-15 10:31:30;INFO;Get LATEST driver version for 91.0.4472
+2021-06-15 10:31:32;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-15 10:33:09;INFO;Project added successfully
+2021-06-15 10:47:58;INFO;
+
+2021-06-15 10:47:58;INFO;====== WebDriver manager ======
+2021-06-15 10:47:58;INFO;Current google-chrome version is 91.0.4472
+2021-06-15 10:47:58;INFO;Get LATEST driver version for 91.0.4472
+2021-06-15 10:48:00;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-15 10:51:48;INFO;
+
+2021-06-15 10:51:48;INFO;====== WebDriver manager ======
+2021-06-15 10:51:48;INFO;Current google-chrome version is 91.0.4472
+2021-06-15 10:51:48;INFO;Get LATEST driver version for 91.0.4472
+2021-06-15 10:51:49;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-15 10:54:24;INFO;
+
+2021-06-15 10:54:24;INFO;====== WebDriver manager ======
+2021-06-15 10:54:24;INFO;Current google-chrome version is 91.0.4472
+2021-06-15 10:54:24;INFO;Get LATEST driver version for 91.0.4472
+2021-06-15 10:54:25;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-15 10:56:46;INFO;
+
+2021-06-15 10:56:46;INFO;====== WebDriver manager ======
+2021-06-15 10:56:46;INFO;Current google-chrome version is 91.0.4472
+2021-06-15 10:56:46;INFO;Get LATEST driver version for 91.0.4472
+2021-06-15 10:56:47;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-15 11:12:17;INFO;
+
+2021-06-15 11:12:17;INFO;====== WebDriver manager ======
+2021-06-15 11:12:17;INFO;Current google-chrome version is 91.0.4472
+2021-06-15 11:12:17;INFO;Get LATEST driver version for 91.0.4472
+2021-06-15 11:12:18;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-15 11:16:27;INFO;
+
+2021-06-15 11:16:27;INFO;====== WebDriver manager ======
+2021-06-15 11:16:27;INFO;Current google-chrome version is 91.0.4472
+2021-06-15 11:16:27;INFO;Get LATEST driver version for 91.0.4472
+2021-06-15 11:16:28;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-15 11:22:46;INFO;
+
+2021-06-15 11:22:46;INFO;====== WebDriver manager ======
+2021-06-15 11:22:46;INFO;Current google-chrome version is 91.0.4472
+2021-06-15 11:22:46;INFO;Get LATEST driver version for 91.0.4472
+2021-06-15 11:22:47;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-15 11:25:16;INFO;
+
+2021-06-15 11:25:16;INFO;====== WebDriver manager ======
+2021-06-15 11:25:16;INFO;Current google-chrome version is 91.0.4472
+2021-06-15 11:25:16;INFO;Get LATEST driver version for 91.0.4472
+2021-06-15 11:25:17;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-15 11:29:08;INFO;
+
+2021-06-15 11:29:08;INFO;====== WebDriver manager ======
+2021-06-15 11:29:08;INFO;Current google-chrome version is 91.0.4472
+2021-06-15 11:29:08;INFO;Get LATEST driver version for 91.0.4472
+2021-06-15 11:29:09;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-15 11:30:54;INFO;
+
+2021-06-15 11:30:54;INFO;====== WebDriver manager ======
+2021-06-15 11:30:54;INFO;Current google-chrome version is 91.0.4472
+2021-06-15 11:30:54;INFO;Get LATEST driver version for 91.0.4472
+2021-06-15 11:30:55;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-15 11:33:34;INFO;
+
+2021-06-15 11:33:34;INFO;====== WebDriver manager ======
+2021-06-15 11:33:34;INFO;Current google-chrome version is 91.0.4472
+2021-06-15 11:33:34;INFO;Get LATEST driver version for 91.0.4472
+2021-06-15 11:33:36;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-15 11:34:53;ERROR;Project not added successfully
+2021-06-15 11:37:00;INFO;
+
+2021-06-15 11:37:00;INFO;====== WebDriver manager ======
+2021-06-15 11:37:01;INFO;Current google-chrome version is 91.0.4472
+2021-06-15 11:37:01;INFO;Get LATEST driver version for 91.0.4472
+2021-06-15 11:37:02;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-15 11:40:18;INFO;
+
+2021-06-15 11:40:18;INFO;====== WebDriver manager ======
+2021-06-15 11:40:18;INFO;Current google-chrome version is 91.0.4472
+2021-06-15 11:40:18;INFO;Get LATEST driver version for 91.0.4472
+2021-06-15 11:40:20;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-15 11:41:49;ERROR;Project not added successfully
+2021-06-15 11:43:22;INFO;
+
+2021-06-15 11:43:22;INFO;====== WebDriver manager ======
+2021-06-15 11:43:22;INFO;Current google-chrome version is 91.0.4472
+2021-06-15 11:43:22;INFO;Get LATEST driver version for 91.0.4472
+2021-06-15 11:43:23;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-15 11:45:06;ERROR;Project not added successfully
+2021-06-15 11:45:54;INFO;
+
+2021-06-15 11:45:54;INFO;====== WebDriver manager ======
+2021-06-15 11:45:54;INFO;Current google-chrome version is 91.0.4472
+2021-06-15 11:45:54;INFO;Get LATEST driver version for 91.0.4472
+2021-06-15 11:45:55;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-15 11:47:21;ERROR;Project not added successfully
+2021-06-15 11:48:50;INFO;
+
+2021-06-15 11:48:50;INFO;====== WebDriver manager ======
+2021-06-15 11:48:50;INFO;Current google-chrome version is 91.0.4472
+2021-06-15 11:48:50;INFO;Get LATEST driver version for 91.0.4472
+2021-06-15 11:48:51;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-15 11:50:35;ERROR;Project not added successfully
+2021-06-15 11:52:19;INFO;
+
+2021-06-15 11:52:19;INFO;====== WebDriver manager ======
+2021-06-15 11:52:19;INFO;Current google-chrome version is 91.0.4472
+2021-06-15 11:52:19;INFO;Get LATEST driver version for 91.0.4472
+2021-06-15 11:52:20;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-15 11:53:38;INFO;Project added successfully
+2021-06-15 11:55:33;INFO;
+
+2021-06-15 11:55:33;INFO;====== WebDriver manager ======
+2021-06-15 11:55:33;INFO;Current google-chrome version is 91.0.4472
+2021-06-15 11:55:33;INFO;Get LATEST driver version for 91.0.4472
+2021-06-15 11:55:34;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-15 11:56:40;INFO;Project added successfully
+2021-06-15 12:01:11;INFO;
+
+2021-06-15 12:01:11;INFO;====== WebDriver manager ======
+2021-06-15 12:01:11;INFO;Current google-chrome version is 91.0.4472
+2021-06-15 12:01:11;INFO;Get LATEST driver version for 91.0.4472
+2021-06-15 12:01:13;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-15 12:04:16;INFO;
+
+2021-06-15 12:04:16;INFO;====== WebDriver manager ======
+2021-06-15 12:04:16;INFO;Current google-chrome version is 91.0.4472
+2021-06-15 12:04:16;INFO;Get LATEST driver version for 91.0.4472
+2021-06-15 12:04:17;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-15 12:05:33;INFO;Project added successfully
+2021-06-15 12:06:40;INFO;Project added successfully
+2021-06-15 12:07:50;INFO;Project added successfully
+2021-06-15 12:09:01;INFO;Project added successfully
+2021-06-21 12:42:47;INFO;
+
+2021-06-21 12:42:47;INFO;====== WebDriver manager ======
+2021-06-21 12:42:47;INFO;Current google-chrome version is 91.0.4472
+2021-06-21 12:42:47;INFO;Get LATEST driver version for 91.0.4472
+2021-06-21 12:42:49;INFO;Get LATEST driver version for 91.0.4472
+2021-06-21 12:42:51;INFO;Trying to download new driver from https://chromedriver.storage.googleapis.com/91.0.4472.101/chromedriver_win32.zip
+2021-06-21 12:42:55;INFO;Driver has been saved in cache [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101]
+2021-06-21 12:44:06;INFO;Project added successfully
+2021-06-21 12:53:06;INFO;
+
+2021-06-21 12:53:06;INFO;====== WebDriver manager ======
+2021-06-21 12:53:06;INFO;Current google-chrome version is 91.0.4472
+2021-06-21 12:53:06;INFO;Get LATEST driver version for 91.0.4472
+2021-06-21 12:53:08;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-21 12:54:14;INFO;Project added successfully
+2021-06-21 12:54:24;INFO;Project source added successfully
+2021-06-21 12:55:05;INFO;Project added successfully
+2021-06-21 12:55:15;ERROR;Project source not added successfully
+2021-06-21 12:55:58;INFO;Project added successfully
+2021-06-21 12:56:08;ERROR;Project source not added successfully
+2021-06-21 12:56:53;INFO;Project added successfully
+2021-06-21 12:57:03;ERROR;Project source not added successfully
+2021-06-23 09:35:26;INFO;
+
+2021-06-23 09:35:26;INFO;====== WebDriver manager ======
+2021-06-23 09:35:26;INFO;Current google-chrome version is 91.0.4472
+2021-06-23 09:35:26;INFO;Get LATEST driver version for 91.0.4472
+2021-06-23 09:35:29;INFO;Get LATEST driver version for 91.0.4472
+2021-06-23 09:35:30;INFO;Trying to download new driver from https://chromedriver.storage.googleapis.com/91.0.4472.101/chromedriver_win32.zip
+2021-06-23 09:35:35;INFO;Driver has been saved in cache [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101]
+2021-06-23 09:39:24;INFO;
+
+2021-06-23 09:39:24;INFO;====== WebDriver manager ======
+2021-06-23 09:39:24;INFO;Current google-chrome version is 91.0.4472
+2021-06-23 09:39:24;INFO;Get LATEST driver version for 91.0.4472
+2021-06-23 09:39:25;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-23 09:59:30;INFO;
+
+2021-06-23 09:59:30;INFO;====== WebDriver manager ======
+2021-06-23 09:59:30;INFO;Current google-chrome version is 91.0.4472
+2021-06-23 09:59:30;INFO;Get LATEST driver version for 91.0.4472
+2021-06-23 09:59:32;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-23 10:23:21;INFO;
+
+2021-06-23 10:23:21;INFO;====== WebDriver manager ======
+2021-06-23 10:23:21;INFO;Current google-chrome version is 91.0.4472
+2021-06-23 10:23:21;INFO;Get LATEST driver version for 91.0.4472
+2021-06-23 10:23:25;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-23 10:24:40;INFO;Project added successfully
+2021-06-23 10:24:50;INFO;Project source added successfully
+2021-06-23 10:25:31;INFO;Project added successfully
+2021-06-23 10:25:41;ERROR;Project source not added successfully
+2021-06-23 10:26:25;INFO;Project added successfully
+2021-06-23 10:26:35;ERROR;Project source not added successfully
+2021-06-23 10:27:20;INFO;Project added successfully
+2021-06-23 10:27:30;ERROR;Project source not added successfully
+2021-06-24 11:55:21;INFO;
+
+2021-06-24 11:55:21;INFO;====== WebDriver manager ======
+2021-06-24 11:55:21;INFO;Current google-chrome version is 91.0.4472
+2021-06-24 11:55:21;INFO;Get LATEST driver version for 91.0.4472
+2021-06-24 11:55:23;INFO;Get LATEST driver version for 91.0.4472
+2021-06-24 11:55:24;INFO;Trying to download new driver from https://chromedriver.storage.googleapis.com/91.0.4472.101/chromedriver_win32.zip
+2021-06-24 11:55:29;INFO;Driver has been saved in cache [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101]
+2021-06-24 11:56:43;INFO;Project added successfully
+2021-06-24 11:56:52;INFO;Project source added successfully
+2021-06-24 12:18:30;INFO;
+
+2021-06-24 12:18:30;INFO;====== WebDriver manager ======
+2021-06-24 12:18:30;INFO;Current google-chrome version is 91.0.4472
+2021-06-24 12:18:30;INFO;Get LATEST driver version for 91.0.4472
+2021-06-24 12:18:32;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-24 12:18:54;INFO;
+
+2021-06-24 12:18:54;INFO;====== WebDriver manager ======
+2021-06-24 12:18:54;INFO;Current google-chrome version is 91.0.4472
+2021-06-24 12:18:54;INFO;Get LATEST driver version for 91.0.4472
+2021-06-24 12:18:56;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-24 12:20:11;INFO;Project added successfully
+2021-06-24 12:20:20;INFO;Project source added successfully
+2021-06-24 12:21:03;INFO;Project added successfully
+2021-06-24 12:27:38;INFO;
+
+2021-06-24 12:27:38;INFO;====== WebDriver manager ======
+2021-06-24 12:27:38;INFO;Current google-chrome version is 91.0.4472
+2021-06-24 12:27:38;INFO;Get LATEST driver version for 91.0.4472
+2021-06-24 12:27:40;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-24 12:28:48;INFO;Project added successfully
+2021-06-24 12:28:57;INFO;Project source added successfully
+2021-06-24 12:34:34;INFO;
+
+2021-06-24 12:34:34;INFO;====== WebDriver manager ======
+2021-06-24 12:34:34;INFO;Current google-chrome version is 91.0.4472
+2021-06-24 12:34:34;INFO;Get LATEST driver version for 91.0.4472
+2021-06-24 12:34:36;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-24 12:35:43;INFO;Project added successfully
+2021-06-24 12:35:53;INFO;Project source added successfully
+2021-06-24 12:42:14;INFO;
+
+2021-06-24 12:42:14;INFO;====== WebDriver manager ======
+2021-06-24 12:42:14;INFO;Current google-chrome version is 91.0.4472
+2021-06-24 12:42:14;INFO;Get LATEST driver version for 91.0.4472
+2021-06-24 12:42:16;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-24 12:43:26;INFO;Project added successfully
+2021-06-24 12:43:36;INFO;Project source added successfully
+2021-06-24 12:44:59;INFO;
+
+2021-06-24 12:44:59;INFO;====== WebDriver manager ======
+2021-06-24 12:44:59;INFO;Current google-chrome version is 91.0.4472
+2021-06-24 12:44:59;INFO;Get LATEST driver version for 91.0.4472
+2021-06-24 12:45:00;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-24 12:46:04;INFO;Project added successfully
+2021-06-24 12:46:14;INFO;Project source added successfully
+2021-06-24 12:48:29;INFO;
+
+2021-06-24 12:48:29;INFO;====== WebDriver manager ======
+2021-06-24 12:48:29;INFO;Current google-chrome version is 91.0.4472
+2021-06-24 12:48:29;INFO;Get LATEST driver version for 91.0.4472
+2021-06-24 12:48:31;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-24 12:49:41;INFO;Project added successfully
+2021-06-24 12:49:52;INFO;Project source added successfully
+2021-06-24 12:52:23;INFO;
+
+2021-06-24 12:52:23;INFO;====== WebDriver manager ======
+2021-06-24 12:52:23;INFO;Current google-chrome version is 91.0.4472
+2021-06-24 12:52:23;INFO;Get LATEST driver version for 91.0.4472
+2021-06-24 12:52:24;INFO;Driver [C:\Users\karti\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+2021-06-24 12:54:18;INFO;Project added successfully
+2021-06-24 12:54:28;INFO;Project source added successfully

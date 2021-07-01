@@ -1,5 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+
+from pageObjects.BasePage import BasePage
 from pageObjects.LoginPage import LoginPage
 from utilities.customLogger import Loggen
 from utilities import XLUtils
@@ -15,27 +17,13 @@ import pytest
 
 
 class Test_12_Add_Contact_As_Project_Role:
-    baseurl = ReadConfig.getUrl()
-    username = ReadConfig.getUsername()
-    password = ReadConfig.getPassword()
+
     path = ".//TestData/Logindata.xlsx"
     logger = Loggen.log_generator()
 
-    @pytest.fixture
-    def setUp(self):
-        self.driver = webdriver.Chrome(ChromeDriverManager().install())
-        self.driver.maximize_window()
-        self.driver.implicitly_wait(20)
-        self.driver.get(self.baseurl)
-        self.lp = LoginPage(self.driver)
-        self.lp.setUserName(self.username)
-        self.lp.setPassword(self.password)
-        time.sleep(2)
-        self.lp.click_login()
-        yield
-        self.driver.close()
-
     def test_add_Contact_As_Project_Role(self,setUp):
+        self.driver = setUp
+        self.lp = BasePage(self.driver)
         time.sleep(4)
         self.lp.clickElement("link_Contacts_linktext")
 

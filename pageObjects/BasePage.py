@@ -12,10 +12,18 @@ class BasePage:
     def __init__(self,driver):
         self.driver = driver
 
+    def getText(self,locator):
+        element = ReadConfig.getWebElement(locator)
+        res = eval(element)
+        text=WebDriverWait(self.driver, 20).until(EC.presence_of_element_located(res)).text
+        return text
+
+
+
     def clickElement(self, locator):
         element = ReadConfig.getWebElement(locator)
         res = eval(element)
-        WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located(res)).click()
+        WebDriverWait(self.driver, 20).until(EC.presence_of_element_located(res)).click()
 
     def sendKeys(self, locator, data):
         element = ReadConfig.getWebElement(locator)

@@ -2,7 +2,19 @@ from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.firefox import GeckoDriverManager
 import pytest
+from utilities.readProperties import ReadConfig
+from utilities import XLUtils
+from pageObjects.LoginPage import LoginPage
+from utilities.customLogger import Loggen
 
+baseurl=ReadConfig.getUrl()
+username=ReadConfig.getUsername()
+password=ReadConfig.getPassword()
+path=".//TestData//Logindata.xlsx"
+
+
+
+''''
 @pytest.fixture()
 def setUp(browser):
     if browser == 'chrome':
@@ -14,6 +26,32 @@ def setUp(browser):
     driver.maximize_window()
     driver.implicitly_wait(20)
     return driver
+'''
+
+@pytest.fixture()
+def setUp(browser):
+    if browser == 'chrome':
+      driver = webdriver.Chrome(ChromeDriverManager().install())
+
+    elif browser == 'firefox':
+      driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
+
+    driver.maximize_window()
+    driver.implicitly_wait(20)
+    driver.get(baseurl)
+    login=LoginPage(driver)
+    login.setUserName(username)
+    login.setPassword(password)
+    login.click_login()
+    return driver
+
+
+
+
+
+
+
+
 
 
 

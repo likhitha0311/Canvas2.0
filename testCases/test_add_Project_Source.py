@@ -3,19 +3,24 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
+
+from pageObjects.BasePage import BasePage
 from utilities.customLogger import Loggen
 from utilities.readProperties import ReadConfig
 from utilities import XLUtils
 from pageObjects.LoginPage import LoginPage
 
 class Test_11_add_Project_Source:
+    ''''
     baseurl = ReadConfig.getUrl()
     username = ReadConfig.getUsername()
     password = ReadConfig.getPassword()
+    '''
     path = ".//TestData//Logindata.xlsx"
     logger = Loggen.log_generator()
 
     def test_add_Project_Source(self,setUp):
+        '''
         self.driver=setUp
         self.lp=LoginPage(self.driver)
         self.driver.get(self.baseurl)
@@ -23,8 +28,10 @@ class Test_11_add_Project_Source:
         self.lp.setPassword(self.password)
         time.sleep(2)
         self.lp.click_login()
-
-        time.sleep(2)
+        '''
+        self.driver = setUp
+        self.lp = BasePage(self.driver)
+        time.sleep(3)
         self.lp.clickElement("link_Project_linktext")
         time.sleep(5)
         self.lp.clickElement("link_firstelement")
@@ -68,6 +75,7 @@ class Test_11_add_Project_Source:
             self.lp.selectfromdropdown(SourcTypelist, SourceType)
             self.lp.clickElement("label_source")
 
+            time.sleep(1)
             self.lp.clickElement("drop_sourcecontact")
             self.driver.find_element(By.XPATH, "//input[@aria-owns='contactList_options']").send_keys(Contact)
             time.sleep(2)

@@ -1,5 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+
+from pageObjects.BasePage import BasePage
 from pageObjects.LoginPage import LoginPage
 from utilities.customLogger import Loggen
 from utilities import XLUtils
@@ -15,14 +17,17 @@ import pytest
 
 
 class Test_006_add_Contact:
+    ''''
     baseurl=ReadConfig.getUrl()
     username=ReadConfig.getUsername()
     password=ReadConfig.getPassword()
+    '''
     path=".//TestData/Logindata.xlsx"
     logger=Loggen.log_generator()
 
     #@pytest.mark.skip
     def test_add_contact(self,setUp):
+        ''''
         self.driver=setUp
         self.lp=LoginPage(self.driver)
         self.logger=Loggen.log_generator()
@@ -31,7 +36,12 @@ class Test_006_add_Contact:
         self.lp.setPassword(self.password)
         time.sleep(2)
         self.lp.click_login()
+        '''
+        # first 2 lines newly added
+        self.driver = setUp
+        self.lp = BasePage(self.driver)
         time.sleep(3)
+
         self.lp.clickElement("link_Contacts_linktext")
 
         max_row=XLUtils.getRowCount(self.path,"AddContact")
@@ -93,16 +103,22 @@ class Test_006_add_Contact:
 
     #@pytest.mark.skip
     def test_add_company_inside_contact(self,setUp):
+        ''''
         self.driver=setUp
         self.driver.get(self.baseurl)
         self.lp=LoginPage(self.driver)
         self.lp.setUserName(self.username)
         self.lp.setPassword(self.password)
         self.lp.click_login()
+        '''
         #time.sleep(3)
+        #first 2 lines newly added
+        self.driver = setUp
+        self.lp = BasePage(self.driver)
+
+        time.sleep(3)
         self.lp.clickElement("link_Contacts_linktext")
-        time.sleep(5
-                   )
+        time.sleep(5)
         self.lp.clickElement("link_firstelement")
         self.lp.clickElement("link_firstelement")
         time.sleep(2)
@@ -154,15 +170,17 @@ class Test_006_add_Contact:
 
                     print("Company is associated  with contact successfully")
                     self.logger.info("Company is associated  with contact successfully")
-
+                    time.sleep(2)
                     active_company=self.driver.find_element(By.XPATH, "//a[@title='Company']").text
+                    #print(active_company)
 
-                    if active_company == CompanyName:
+                    if CompanyName in active_company:
                         print("Company is located in active position of contact successfully")
                         self.logger.info("Company is located in active position of contact successfully")
                     else:
                         print("Company  is not located in active position of contact successfully")
                         self.logger.error("Company is not located in active position of contact successfully")
+
 
         self.driver.close()
 

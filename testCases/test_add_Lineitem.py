@@ -2,6 +2,8 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+
+from pageObjects.BasePage import BasePage
 from utilities.readProperties import ReadConfig
 from utilities import XLUtils
 from pageObjects.LoginPage import LoginPage
@@ -11,20 +13,25 @@ import random
 
 
 class Test_007_add_LineItem:
+    ''''
     baseurl=ReadConfig.getUrl()
     username=ReadConfig.getUsername()
     password=ReadConfig.getPassword()
+    '''
     path=".//TestData//Logindata.xlsx"
     logger=Loggen.log_generator()
 
     def test_add_lineitem(self,setUp):
+        '''
         self.driver=setUp
         self.lp=LoginPage(self.driver)
         self.driver.get(self.baseurl)
         self.lp.setUserName(self.username)
         self.lp.setPassword(self.password)
         self.lp.click_login()
-
+        '''
+        self.driver = setUp
+        self.lp = BasePage(self.driver)
         time.sleep(5)
         self.lp.clickElement("link_Orders")
         time.sleep(3)

@@ -1,5 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+
+from pageObjects.BasePage import BasePage
 from pageObjects.LoginPage import LoginPage
 from utilities.customLogger import Loggen
 from utilities import XLUtils
@@ -11,14 +13,17 @@ import randominfo
 
 
 class Test_10_Add_Company_Role:
+    ''''
     baseurl = ReadConfig.getUrl()
     username = ReadConfig.getUsername()
     password = ReadConfig.getPassword()
+    '''
     path = ".//TestData/Logindata.xlsx"
     logger = Loggen.log_generator()
 
     # @pytest.mark.skip
     def test_add_contact(self, setUp):
+        '''
         self.driver = setUp
         self.lp = LoginPage(self.driver)
         self.logger = Loggen.log_generator()
@@ -26,6 +31,9 @@ class Test_10_Add_Company_Role:
         self.lp.setUserName(self.username)
         self.lp.setPassword(self.password)
         self.lp.click_login()
+        '''
+        self.driver = setUp
+        self.lp = BasePage(self.driver)
         time.sleep(3)
         self.lp.clickElement("link_Project_linktext")
         time.sleep(5)
