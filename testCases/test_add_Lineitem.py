@@ -62,7 +62,9 @@ class Test_007_add_LineItem:
              time.sleep(1)
              lineitemlist=self.driver.find_elements(By.XPATH, "//div[@id='order_item_codeee_tree']/ul/li")
              self.lp.selectfromdropdown(lineitemlist,lineitem)
+             time.sleep(1)
              self.lp.sendKeys("textarea_description",description)
+             #self.lp.clickElement("lineitemlabel")
              self.lp.sendKeys("text_orderamount", amount)
              self.lp.sendKeys("text_orderquantity", quantity)
 

@@ -32,7 +32,7 @@ class Test_008_add_deliverable:
         self.lp = BasePage(self.driver)
         time.sleep(5)
         self.lp.clickElement("link_Orders")
-        time.sleep(3)
+        time.sleep(5)
         self.lp.clickElement("link_1storder")
         time.sleep(2)
         self.lp.clickElement("link_Deliverables")
@@ -45,6 +45,7 @@ class Test_008_add_deliverable:
         for r in range(2,row+1):
             deliverable = XLUtils.readData(self.path, "AddDeliverable", r, 3)
             description = XLUtils.readData(self.path, "AddDeliverable", r, 4)
+            #print("description is ", description)
             status = XLUtils.readData(self.path, "AddDeliverable", r, 5)
             status=status.lower()
             owner = XLUtils.readData(self.path, "AddDeliverable", r, 6)
@@ -66,8 +67,9 @@ class Test_008_add_deliverable:
                                                                  "//div[@id='deliverable_item_codee_tree']/ul/li")
             self.lp.selectfromdropdown(Deliverableitemslist, deliverable)
             self.lp.clickElement("label_adddeliverable")
-
+            #if u want to pass empty or null value to any field using sendkeys then you need to use sendkeys function with "" as argument
             self.lp.sendKeys("textarea_description", description)
+            #self.driver.find_element(By.XPATH, "//textarea[@formcontrolname='description']").send_keys(description)
             self.lp.sendKeys("textarea_note","dELIverable notes is added")
 
             self.lp.clickElement("drop_deliverablestatus")
@@ -99,9 +101,13 @@ class Test_008_add_deliverable:
             Deliverableownerlist = self.driver.find_elements(By.XPATH, "//div[@id='deliverable_owner_code_popup']//ul/li")
             self.lp.selectfromdropdown(Deliverableownerlist, owner)
             self.lp.clickElement("label_adddeliverable")
-
-            #time.sleep(2)
-            self.lp.clickElement("button_add_xpath")
+            time.sleep(2)
+            self.lp.clickElement("dateslink")
+            self.lp.clickElement("publishingdate")
+            time.sleep(2)
+            self.lp.clickElement("popup_today_xpath")
+            time.sleep(1)
+            self.lp.clickElement("adddeliverable")
             time.sleep(3)
             try:
                 wait=WebDriverWait(self.driver,2)

@@ -1,0 +1,3 @@
+pytest --html=Reports/reports.html testCases/test_Update_Project_Status.py --browser chrome
+pytest --html=Reports/reports.html testCases/test_add_Project.py --browser chrome
+

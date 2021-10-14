@@ -24,6 +24,7 @@ class BasePage:
         element = ReadConfig.getWebElement(locator)
         res = eval(element)
         WebDriverWait(self.driver, 20).until(EC.presence_of_element_located(res)).click()
+        #WebDriverWait(self.driver, 20).until(EC.element_to_be_clickable(res)).click()
 
     def sendKeys(self, locator, data):
         element = ReadConfig.getWebElement(locator)

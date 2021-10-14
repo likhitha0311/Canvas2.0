@@ -10,6 +10,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support  import expected_conditions as EC
 import time
 import randominfo
+import pytest
 
 
 class Test_10_Add_Company_Role:
@@ -21,7 +22,7 @@ class Test_10_Add_Company_Role:
     path = ".//TestData/Logindata.xlsx"
     logger = Loggen.log_generator()
 
-    # @pytest.mark.skip
+    #@pytest.mark.skip
     def test_add_contact(self, setUp):
         '''
         self.driver = setUp
@@ -34,7 +35,7 @@ class Test_10_Add_Company_Role:
         '''
         self.driver = setUp
         self.lp = BasePage(self.driver)
-        time.sleep(3)
+        time.sleep(5)
         self.lp.clickElement("link_Project_linktext")
         time.sleep(5)
         self.lp.clickElement("link_firstelement")
@@ -65,6 +66,7 @@ class Test_10_Add_Company_Role:
            print(len(Roles))
            self.lp.selectfromdropdown(Roles,CompanyRole)
 
+           time.sleep(2)
            self.lp.clickElement("drop_companyname")
            self.driver.find_element(By.XPATH,"//input[@aria-owns='company_code_options']").send_keys(Company)
            time.sleep(2)
@@ -105,7 +107,54 @@ class Test_10_Add_Company_Role:
                     print("Company Role not added successfully")
                     self.logger.error("Company Role not added successfully")
 
-        self.driver.close()
+        #self.driver.close()
+
+
+    def test_send_email(self,setUp):
+        self.driver = setUp
+        self.lp = BasePage(self.driver)
+        time.sleep(5)
+        self.lp.clickElement("link_Project_linktext")
+        time.sleep(5)
+        self.lp.clickElement("link_firstelement")
+        time.sleep(3)
+        self.lp.clickElement("ellipses")
+        self.lp.clickElement("Email")
+        self.lp.clickElement("emailtemplate")
+        time.sleep(1)
+        Arrowlist = self.driver.find_elements(By.XPATH,
+                                              "//*[@id='_tree']//div[@class='e-icons e-icon-expandable interaction']")
+        for every_arrow in Arrowlist:
+            time.sleep(1)
+            every_arrow.click()
+        self.driver.find_element(By.XPATH, "//*[@id='_tree_active']/ul/li[1]/div[1]").click()
+        self.lp.clickElement("senderemail")
+        self.driver.find_element(By.ID,'sender_email_options').click()
+        #time.sleep(1)
+        self.lp.clickElement("receiveremail")
+        time.sleep(1)
+        self.driver.find_element(By.XPATH,"//ul[@id='receiver_email_options']/li[1]").click()
+
+        time.sleep(2)
+        self.lp.clickElement("sendemailbutton")
+        time.sleep(3)
+        try:
+            wait = WebDriverWait(self.driver, 2)
+            wait.until(EC.element_to_be_clickable((By.XPATH, "(//a[@id='kt_quick_panel_close'])[4]")))
+            #wait.until(EC.visibility_of_element_located((By.XPATH, "//h2[.='Send Email']")))
+            #wait.until(EC.presence_of_element_located((By.XPATH, "//h2[.='Send Email']")))
+            self.logger.error("Ëmail not sent")
+            print("Ëmail not sent")
+        except:
+            self.logger.info("Ëmail sent successfully")
+            print("Ëmail sent successfully")
+
+
+
+
+
+
+
                     
                    
 

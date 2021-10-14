@@ -129,7 +129,11 @@ class Test_006_Add_Project:
 
            time.sleep(2)
 
-
+           self.lp.clickElement("Receivedon")
+           time.sleep(1)
+           self.lp.clickElement("popup_today_xpath")
+           self.lp.clickElement("label_AddProjectSource_xpath")
+           time.sleep(2)
            self.lp.clickElement("button_addProject_xpath")
 
            time.sleep(3)
